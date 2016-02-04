@@ -22,7 +22,9 @@ recensement de différents outils libres
 ----------------------
 ## quelques essais (rien à voir)
 
-$a^2=b$
+essai de $a^2=b$
+
+
 
 ```python
 def f(x):
