@@ -22,7 +22,8 @@ recensement de différents outils libres
 ----------------------
 ## quelques essais (rien à voir)
 
-essai de $a^2=b$
+essai de 
+$a^2=b$
 
 
 
