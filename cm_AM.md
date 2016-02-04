@@ -4,7 +4,6 @@
 
 ## Principe de base
 
-$$s_p$$
 
 -   consiste à remplacer l’amplitude fixe d’un signal sinusoidal par un
     signal variable.
@@ -17,10 +16,7 @@ $$s_p$$
 
     -   un signal binaire (en transmission de données)
 
--   le signal dont on modifie l’amplitude est nommé signal porteur 
-
-$s_p$
-
+-   le signal dont on modifie l’amplitude est nommé signal porteur $s_p$
     de fréquence $f_p$.
 
 -   le signal qui remplace l’amplitude de $s_p(t)$ est nommé signal
@@ -31,8 +27,7 @@ $s_p$
 
 -   Si le signal modulant est lui-même sinusoidal, le calcul devient:
 
-$$\begin{aligned}
-s_{AM}(t) &=& s_m(t) . s_p(t) \\
+$$s_{AM}(t) &=& s_m(t) . s_p(t) \\
      &=& A_m cos( \omega_m t) E cos( \omega_p t) \\
          &=& {1 \over 2} A_m E [ cos( (\omega_p - \omega_m)t) + cos( (\omega_p + \omega_m)t) ]\end{aligned}$$
 
