@@ -16,7 +16,7 @@
 
     -   un signal binaire (en transmission de données)
 
--   le signal dont on modifie l’amplitude est nommé signal porteur $s_p$
+-   le signal dont on modifie l’amplitude est nommé signal porteur $$s_p$$
     de fréquence $f_p$.
 
 -   le signal qui remplace l’amplitude de $s_p(t)$ est nommé signal
