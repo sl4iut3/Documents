@@ -5,6 +5,8 @@
 
 recensement de différents outils libres
 
+$\int_0^{+\infty} x.dx=??$
+
 ----------------------
 ## Redmine
 
@@ -21,8 +23,6 @@ recensement de différents outils libres
 
 ----------------------
 ## quelques essais (rien à voir)
-
-essai de 
 
 $a^2=b$
 
