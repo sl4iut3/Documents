@@ -4,6 +4,7 @@
 
 ## Principe de base
 
+$$s_p$$
 
 -   consiste à remplacer l’amplitude fixe d’un signal sinusoidal par un
     signal variable.
