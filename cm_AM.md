@@ -15,7 +15,7 @@
 
     -   un signal binaire (en transmission de données)
 
--   le signal dont on modifie l’amplitude est nommé signal porteur $$s_p$$
+-   le signal dont on modifie l’amplitude est nommé signal porteur $s_p$
     de fréquence $f_p$.
 
 -   le signal qui remplace l’amplitude de $s_p(t)$ est nommé signal
@@ -26,12 +26,12 @@
 
 -   Si le signal modulant est lui-même sinusoidal, le calcul devient:
 
-$$s_{AM}(t) &=& s_m(t) . s_p(t) \\
-     &=& A_m cos( \omega_m t) E cos( \omega_p t) \\
-         &=& {1 \over 2} A_m E [ cos( (\omega_p - \omega_m)t) + cos( (\omega_p + \omega_m)t) ]\end{aligned}$$
+$$s_{AM}(t) = s_m(t) . s_p(t)$$
+$$     = A_m cos( \omega_m t) E cos( \omega_p t) $$
+$$         &=& {1 \over 2} A_m E [ cos( (\omega_p - \omega_m)t) + cos( (\omega_p + \omega_m)t) ]\end{aligned}$$
 
 -   la modulation d’amplitude se traduit donc en fréquence par 2 raies
-    d’amplitude $A_m E/2$: ce sont les bandes latérales.
+    d’amplitude $\frac{A_m E}{2}$: ce sont les bandes latérales.
 
 -   on peut noter l’absence de raie pour la fréquence de la porteuse, ce
     qui peut poser problème pour la démodulation.
