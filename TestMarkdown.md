@@ -87,4 +87,16 @@ def __init__(self, initial_state, memory=None):
 
 Table:  Demonstration of simple table syntax.
 
+-   le signal variable peut-être:
 
+    -   un signal sinusoidal (pour comprendre et simplifier les calculs)
+
+    -   un signal analogique quelconque (dans la réalité)
+
+    -   un signal binaire (en transmission de données)
+
+-   le signal dont on modifie l’amplitude est nommé signal porteur $s_p$
+    de fréquence $f_p$.
+
+-   le signal qui remplace l’amplitude de $s_p(t)$ est nommé signal
+    modulant $s_m$.
