@@ -20,3 +20,12 @@ recensement de différents outils libres
 - compatible avec project (lecture fichier .mpp testée)
 
 ----------------------
+## quelques essais (rien à voir)
+
+$a^2=b$
+
+```python
+def f(x):
+    return 2*x
+```
+
