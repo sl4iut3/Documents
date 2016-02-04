@@ -1,27 +1,15 @@
-# Gestion de projet
+# devt en markdown
 ----------------------
 
 ## Introduction
 
 recensement de différents outils libres
 
-$\int_0^{+\infty} x.dx=??$
+- pandoc
+- odptodown: permet de transformer une présentation Impress en Markdown
 
 ----------------------
-## Redmine
 
-- soft écrit en Ruby
-- doit tourner sur un serveur
-- permet un accès concurrent??
-
-----------------------
-## ProjectLibre
-
-- existe sous Linux et sous Windows
-- monoposte
-- compatible avec project (lecture fichier .mpp testée)
-
-----------------------
 ## quelques essais (rien à voir)
 
 $a^2=b$
