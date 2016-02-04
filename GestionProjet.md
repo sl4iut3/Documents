@@ -1,5 +1,6 @@
 # Gestion de projet
-
+----------------------
+## Introduction
 recensement de différents outils libres
 ----------------------
 ## Redmine
@@ -14,4 +15,5 @@ recensement de différents outils libres
 - existe sous Linux et sous Windows
 - monoposte
 - compatible avec project (lecture fichier .mpp testée)
+
 ----------------------
