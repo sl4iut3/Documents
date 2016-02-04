@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="http://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script type="text/javascript">/*<![CDATA[*/
+  /*
+  March 19, 2004 MathHTML (c) Peter Jipsen http://www.chapman.edu/~jipsen
+  Released under the GNU General Public License version 2 or later.
+  See the GNU General Public License (at http://www.gnu.org/copyleft/gpl.html)
+  for more details.
+  */
+  
+  function convertMath(node) {// for Gecko
+    if (node.nodeType==1) {
+      var newnode =
+        document.createElementNS("http://www.w3.org/1998/Math/MathML",
+          node.nodeName.toLowerCase());
+      for(var i=0; i < node.attributes.length; i++)
+        newnode.setAttribute(node.attributes[i].nodeName,
+          node.attributes[i].value);
+      for (var i=0; i<node.childNodes.length; i++) {
+        var st = node.childNodes[i].nodeValue;
+        if (st==null || st.slice(0,1)!=" " && st.slice(0,1)!="\n")
+          newnode.appendChild(convertMath(node.childNodes[i]));
+      }
+      return newnode;
+    }
+    else return node;
+  }
+  
+  function convert() {
+    var mmlnode = document.getElementsByTagName("math");
+    var st,str,node,newnode;
+    for (var i=0; i<mmlnode.length; i++)
+      if (document.createElementNS!=null)
+        mmlnode[i].parentNode.replaceChild(convertMath(mmlnode[i]),mmlnode[i]);
+      else { // convert for IE
+        str = "";
+        node = mmlnode[i];
+        while (node.nodeName!="/MATH") {
+          st = node.nodeName.toLowerCase();
+          if (st=="#text") str += node.nodeValue;
+          else {
+            str += (st.slice(0,1)=="/" ? "</m:"+st.slice(1) : "<m:"+st);
+            if (st.slice(0,1)!="/")
+               for(var j=0; j < node.attributes.length; j++)
+                 if (node.attributes[j].value!="italic" &&
+                   node.attributes[j].value!="" &&
+                   node.attributes[j].value!="inherit" &&
+                   node.attributes[j].value!=undefined)
+                   str += " "+node.attributes[j].nodeName+"="+
+                       "\""+node.attributes[j].value+"\"";
+            str += ">";
+          }
+          node = node.nextSibling;
+          node.parentNode.removeChild(node.previousSibling);
+        }
+        str += "</m:math>";
+        newnode = document.createElement("span");
+        node.parentNode.replaceChild(newnode,node);
+        newnode.innerHTML = str;
+      }
+  }
+  
+  if (document.createElementNS==null) {
+    document.write("<object id=\"mathplayer\"\
+    classid=\"clsid:32F66A20-7614-11D4-BD11-00104BD3F987\"></object>");
+    document.write("<?import namespace=\"m\" implementation=\"#mathplayer\"?>");
+  }
+  if(typeof window.addEventListener != 'undefined'){
+    window.addEventListener('load', convert, false);
+  }
+  if(typeof window.attachEvent != 'undefined') {
+    window.attachEvent('onload', convert);
+  }
+  /*]]>*/
+  </script>
+  <script src="http://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div id="modulation-damplitude" class="titleslide slide section level1"><h1>Modulation d'amplitude</h1></div><div id="principe-de-base" class="slide section level2">
+<h1>Principe de base</h1>
+<section data-background="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">
+<ul class="incremental">
+<li><p>consiste à remplacer l’amplitude fixe d’un signal sinusoidal par un signal variable.</p></li>
+<li><p>le signal variable peut-être:</p>
+<ul class="incremental">
+<li><p>un signal sinusoidal (pour comprendre et simplifier les calculs)</p></li>
+<li><p>un signal analogique quelconque (dans la réalité)</p></li>
+<li><p>un signal binaire (en transmission de données)</p></li>
+</ul></li>
+<li><p>le signal dont on modifie l’amplitude est nommé signal porteur <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>s</mi><mi>p</mi></msub><annotation encoding="application/x-tex">s_p</annotation></semantics></math> de fréquence <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>f</mi><mi>p</mi></msub><annotation encoding="application/x-tex">f_p</annotation></semantics></math>.</p></li>
+<li><p>le signal qui remplace l’amplitude de <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>s</mi><mi>p</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">s_p(t)</annotation></semantics></math> est nommé signal modulant <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>s</mi><mi>m</mi></msub><annotation encoding="application/x-tex">s_m</annotation></semantics></math>.</p></li>
+</ul>
+</div><div class="slide section level2">
+
+<ul class="incremental">
+<li><p>la modulation est réalisée en général par la multiplication analogique de <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>s</mi><mi>p</mi></msub><annotation encoding="application/x-tex">s_p</annotation></semantics></math> par le signal <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>s</mi><mi>m</mi></msub><annotation encoding="application/x-tex">s_m</annotation></semantics></math></p></li>
+<li><p>Si le signal modulant est lui-même sinusoidal, le calcul devient:</p></li>
+</ul>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>s</mi><mrow><mi>A</mi><mi>M</mi></mrow></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><msub><mi>s</mi><mi>m</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo>.</mo><msub><mi>s</mi><mi>p</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">s_{AM}(t) = s_m(t) . s_p(t)</annotation></semantics></math> <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>=</mo><msub><mi>A</mi><mi>m</mi></msub><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>ω</mi><mi>m</mi></msub><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mi>E</mi><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>ω</mi><mi>p</mi></msub><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">     = A_m cos( \omega_m t) E cos( \omega_p t) </annotation></semantics></math> <span class="math">$$     = {1 \over 2} A_m E [ cos( (\omega_p - \omega_m)t) + cos( (\omega_p + \omega_m)t) ]$$</span></p>
+<ul class="incremental">
+<li><p>la modulation d’amplitude se traduit donc en fréquence par 2 raies d’amplitude <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>A</mi><mi>m</mi></msub><mi>E</mi><mo>/</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">A_m E/2</annotation></semantics></math>: ce sont les bandes latérales.</p></li>
+<li><p>on peut noter l’absence de raie pour la fréquence de la porteuse, ce qui peut poser problème pour la démodulation.</p></li>
+</ul>
+</div><div id="principe-réellement-utilisé" class="slide section level2">
+<h1>Principe réellement utilisé</h1>
+<p>on rajoute en général le signal porteur au signal obtenu par multiplication</p>
+<ul class="incremental">
+<li>le principe réel est donc le suivant:</li>
+</ul>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>s</mi><mrow><mi>A</mi><mi>M</mi></mrow></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><msub><mi>s</mi><mi>m</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo>.</mo><msub><mi>s</mi><mi>p</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo>+</mo><msub><mi>s</mi><mi>p</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">s_{AM}(t) = s_m(t) . s_p(t) + s_p(t) </annotation></semantics></math> <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>=</mo><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>+</mo><msub><mi>s</mi><mi>m</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">)</mo><mo>.</mo><msub><mi>s</mi><mi>p</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">        = (1+s_m(t)).s_p(t) </annotation></semantics></math> <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>=</mo><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>+</mo><msub><mi>A</mi><mi>m</mi></msub><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>ω</mi><mi>m</mi></msub><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">)</mo><mi>E</mi><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>ω</mi><mi>p</mi></msub><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">        = (1+A_m cos( \omega_m t)) E cos( \omega_p t)</annotation></semantics></math></p>
+<ul class="incremental">
+<li><p>Le terme <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>+</mo><msub><mi>A</mi><mi>m</mi></msub><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>ω</mi><mi>m</mi></msub><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">(1+A_m cos( \omega_m t))</annotation></semantics></math> représente l’amplitude du signal porteur.</p></li>
+<li><p>cette amplitude doit être positive ou nulle, donc l’amplitude du signal modulant <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>A</mi><mi>m</mi></msub><annotation encoding="application/x-tex">A_m</annotation></semantics></math> ne doit pas être supérieure à 1.</p></li>
+<li><p>si ce n’est pas le cas, le signal modulant doit être multiplié par un terme correctif <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>k</mi><annotation encoding="application/x-tex">k</annotation></semantics></math> tel que $ k A_m $ soit inférieur ou égal à 1.</p></li>
+<li><p>on réécrit donc en utilisant l’indice de modulation <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>m</mi><annotation encoding="application/x-tex">m</annotation></semantics></math>:</p></li>
+</ul>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>s</mi><mrow><mi>A</mi><mi>M</mi></mrow></msub><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>+</mo><mi>m</mi><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>ω</mi><mi>m</mi></msub><mi>t</mi><mo stretchy="false" form="postfix">)</mo><mo stretchy="false" form="postfix">)</mo><mi>E</mi><mi>c</mi><mi>o</mi><mi>s</mi><mo stretchy="false" form="prefix">(</mo><msub><mi>ω</mi><mi>p</mi></msub><mi>t</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">s_{AM}(t) = (1+m cos( \omega_m t)) E cos( \omega_p t) </annotation></semantics></math> <span class="math">$$      = E cos(\omega_p t) +{{m E} \over 2} [ cos( (\omega_p - \omega_m)t) + cos( (\omega_p + \omega_m)t) ]$$</span></p>
+<ul class="incremental">
+<li><p>le spectre obtenu est donc complété par une raie d’amplitude <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>E</mi><annotation encoding="application/x-tex">E</annotation></semantics></math> pour la fréquence de la porteuse <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>f</mi><mi>p</mi></msub><annotation encoding="application/x-tex">f_p</annotation></semantics></math></p></li>
+<li><p>cette raie pour la porteuse peut servir à la démodulation</p></li>
+</ul>
+</div><div id="puissance-transportée" class="slide section level2">
+<h1>Puissance transportée</h1>
+<ul class="incremental">
+<li><p>Rappel: En alternatif, la puissance dissipée dans une résistance vaut <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mfrac><msubsup><mi>V</mi><mrow><mi>e</mi><mi>f</mi><mi>f</mi></mrow><mn>2</mn></msubsup><mi>R</mi></mfrac><annotation encoding="application/x-tex">\frac{V_{eff}^2}{R}</annotation></semantics></math></p></li>
+<li><p>à l’émission AM, la résistance <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>R</mi><annotation encoding="application/x-tex">R</annotation></semantics></math> corresponds à l’antenne d’émission</p></li>
+<li><p>à la réception AM, la résistance <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>R</mi><annotation encoding="application/x-tex">R</annotation></semantics></math> est la résistance de charge du démodulateur</p></li>
+<li><p>un signal AM est équivalent à un signal constitué de trois fréquences: <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>f</mi><mi>p</mi></msub><annotation encoding="application/x-tex">f_p</annotation></semantics></math>, <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>f</mi><mi>p</mi></msub><mo>−</mo><msub><mi>f</mi><mi>m</mi></msub></mrow><annotation encoding="application/x-tex">f_p-f_m</annotation></semantics></math> et <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>f</mi><mi>p</mi></msub><mo>+</mo><msub><mi>f</mi><mi>m</mi></msub></mrow><annotation encoding="application/x-tex">f_p+f_m</annotation></semantics></math></p></li>
+<li><p>la puissance transportée par la porteuse est donc:</p></li>
+</ul>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>P</mi><mi>p</mi></msub><mo>=</mo><mfrac><msubsup><mi>E</mi><mrow><mi>e</mi><mi>f</mi><mi>f</mi></mrow><mn>2</mn></msubsup><mi>R</mi></mfrac><mo>=</mo><mfrac><msup><mi>E</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>R</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">P_p = \frac{E_{eff}^2}{R}=\frac{E^2}{2R}</annotation></semantics></math></p>
+<ul class="incremental">
+<li>la puissance transportée par chacune des bandes latérales est donc:</li>
+</ul>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>P</mi><mrow><mi>B</mi><mi>L</mi></mrow></msub><mo>=</mo><mrow><mo stretchy="false" form="prefix">(</mo><mfrac><mrow><mi>m</mi><msub><mi>E</mi><mrow><mi>e</mi><mi>f</mi><mi>f</mi></mrow></msub></mrow><mn>2</mn></mfrac></mrow><msup><mo stretchy="false" form="postfix">)</mo><mn>2</mn></msup><mfrac><mn>1</mn><mi>R</mi></mfrac></mrow><annotation encoding="application/x-tex">P_{BL} = {(\frac{mE_{eff}}{2}})^2 \frac{1}{R} </annotation></semantics></math> <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>=</mo><mfrac><mrow><msup><mi>m</mi><mn>2</mn></msup><msup><mi>E</mi><mn>2</mn></msup></mrow><mrow><mn>8</mn><mi>R</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">   = \frac{m^2E^2}{8R}</annotation></semantics></math></p>
+<ul class="incremental">
+<li>la puissance totale transportée vaut donc la puissance transportée par la porteuse et celle par les 2 bandes latérales:</li>
+</ul>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>P</mi><mi>t</mi></msub><mo>=</mo><msub><mi>P</mi><mi>p</mi></msub><mo>+</mo><mn>2</mn><msub><mi>P</mi><mrow><mi>B</mi><mi>L</mi></mrow></msub></mrow><annotation encoding="application/x-tex">P_t = P_p +2 P_{BL} </annotation></semantics></math> <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>=</mo><mfrac><msup><mi>E</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mo>+</mo><mn>2</mn><mfrac><mrow><msup><mi>m</mi><mn>2</mn></msup><msup><mi>E</mi><mn>2</mn></msup></mrow><mrow><mn>8</mn><mi>R</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">  = \frac{E^2}{2R}+2\frac{m^2E^2}{8R} </annotation></semantics></math> <span class="math">$$  = \frac{E^2}{2R} (1+\frac{m^2}{2})\end{aligned}$$</span></p>
+</div><div id="rendement" class="slide section level2">
+<h1>Rendement</h1>
+<ul class="incremental">
+<li><p>le rendement d’une modulation AM est égal à la puissance utile divisée par la puisance totale</p></li>
+<li><p>le signal utile en AM est transporté par une seule des deux bandes latérales</p></li>
+<li><p>le rendement s’écrit donc:</p></li>
+</ul>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>η</mi><mo>=</mo><mfrac><mfrac><mrow><msup><mi>m</mi><mn>2</mn></msup><msup><mi>E</mi><mn>2</mn></msup></mrow><mrow><mn>8</mn><mi>R</mi></mrow></mfrac><mrow><mfrac><msup><mi>E</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>R</mi></mrow></mfrac><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><msup><mi>m</mi><mn>2</mn></msup><mn>2</mn></mfrac><mo stretchy="false" form="postfix">)</mo></mrow></mfrac></mrow><annotation encoding="application/x-tex">\eta = \frac {\frac{m^2E^2}{8R}} {\frac{E^2}{2R} (1+\frac{m^2}{2})} </annotation></semantics></math> <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>=</mo><mfrac><mfrac><msup><mi>m</mi><mn>2</mn></msup><mn>4</mn></mfrac><mrow><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><msup><mi>m</mi><mn>2</mn></msup><mn>2</mn></mfrac><mo stretchy="false" form="postfix">)</mo></mrow></mfrac></mrow><annotation encoding="application/x-tex">  = \frac {\frac{m^2}{4}} {(1+\frac{m^2}{2})} </annotation></semantics></math> <span class="math">$$  = \frac {m^2} {(4+2m^2)}\end{aligned}$$</span></p>
+<ul class="incremental">
+<li>le rendement <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>η</mi><annotation encoding="application/x-tex">\eta</annotation></semantics></math> varie entre 0 (<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">m=0</annotation></semantics></math>) et <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mo>/</mo><mn>6</mn></mrow><annotation encoding="application/x-tex">1/6</annotation></semantics></math> (<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi><mo>=</mo><mn>100</mn><mo>%</mo></mrow><annotation encoding="application/x-tex">m=100\%</annotation></semantics></math>)</li>
+</ul>
+</div><div id="modulation-am" class="slide section level2">
+<h1>Modulation AM</h1>
+<ul class="incremental">
+<li><p>la modulation AM est encore très utilisée de nos jours car la détection peut être réalisée de manière très simple: détecteur à diode et condensateur par exemple.</p></li>
+<li><p>la modulation AM peut consister à émettre la porteuse et les bandes latérales:système très simple mais rendement faible. Exemple: stations LW style France Inter 162kHz, émetteur d’Allouis</p></li>
+<li><p>les systèmes portatifs n’émettent en général pas la porteuse, mais une ou les deux bandes latérales:</p>
+<ul class="incremental">
+<li><p>DSB: Double Side Band.</p></li>
+<li><p>SSB-LSB: Single Side Band, Lower SB</p></li>
+<li><p>SSB-USB: Single Side Band, Upper SB</p></li>
+</ul></li>
+</ul>
+</div><div id="démodulation-am" class="slide section level2">
+<h1>Démodulation AM</h1>
+<ul class="incremental">
+<li><p>le démodulateur le plus simple est un circuit détecteur de crête (Diode-condensateur C) chargé par une résistance R. La constante de temps est choisie telle que <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>T</mi><mrow><mi>H</mi><mi>F</mi></mrow></msub><mo>&lt;</mo><mo>&lt;</mo><mi>R</mi><mi>C</mi><mo>&lt;</mo><mo>&lt;</mo><msub><mi>T</mi><mrow><mi>B</mi><mi>F</mi></mrow></msub></mrow><annotation encoding="application/x-tex">T_{HF} &lt;&lt; RC &lt;&lt; T_{BF}</annotation></semantics></math></p></li>
+<li><p>on peut aussi utiliser un circuit écréteur pour récupérer la porteuse qui multipliée par le signal AM permettra d’obtenir le signal modulant</p></li>
+<li><p>on peut utiliser aussi une PLL pour obtenir la porteuse.</p></li>
+<li><p>assez fréquemment, on utilise des récepteurs superhétérodynes qui translatent le signal d’entrée autour d’une fréquence FI qui permet d’optimiser la détection et l’amplification.</p></li>
+<li><p>le signal étant transmis par l’amplitude, on utilise souvent des CAG pour éviter les saturations.</p></li>
+</ul>
+</div><div id="détecteur-am" class="slide section level2">
+<h1>détecteur AM</h1>
+<p><embed src="C:/Users/gl/Downloads/circuit_detecteur_AM.pdf" /> [fig:circuit<sub>d</sub>etecteur<sub>A</sub>M]</p>
+<p><embed src="C:/Users/gl/Downloads/detecteur_AM.pdf" /> [fig:detecteur<sub>A</sub>M]</p>
+</div>
+</body>
+</html>
