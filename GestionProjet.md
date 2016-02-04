@@ -1,7 +1,10 @@
 # Gestion de projet
 ----------------------
+
 ## Introduction
+
 recensement de différents outils libres
+
 ----------------------
 ## Redmine
 
