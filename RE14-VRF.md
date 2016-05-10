@@ -83,6 +83,8 @@ après un *en*, *conf t*:
     
 ## config complètes
 
+### config R2
+
     version 12.4
     service timestamps debug datetime msec
     service timestamps log datetime msec
@@ -102,10 +104,64 @@ après un *en*, *conf t*:
     !
     multilink bundle-name authenticated
     !
-  !
-  voice-card 0
-  !
-  !
+    !
+    voice-card 0
+    !
+    archive   
+    log config
+    hidekeys    
+    !
+    interface FastEthernet0/0
+    ip address 10.10.10.254 255.255.255.0
+    duplex auto
+     speed auto
+    !
+    interface FastEthernet0/1
+    ip vrf forwarding red
+    ip address 192.168.1.2 255.255.255.0
+     duplex auto
+     speed auto
+    !
+    router ospf 150 vrf red
+    log-adjacency-changes
+     redistribute connected subnets
+    network 192.168.1.0 0.0.0.255 area 1
+    !
+    ip route vrf red 0.0.0.0 0.0.0.0 192.168.1.1
+    !
+    line con 0
+    line aux 0
+    line vty 0 4
+    login   
+    !
+    scheduler allocate 20000 1000
+    end
+
+### config R3
+
+```
+version 12.4
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname R3
+!
+boot-start-marker
+boot-end-marker
+!
+!
+no aaa new-model
+memory-size iomem 5
+ip cef
+!
+!
+!
+!
+multilink bundle-name authenticated
+!
+!         
+voice-card 0
 !
 !
 !
@@ -123,7 +179,9 @@ après un *en*, *conf t*:
 !
 !
 !
-archive   
+!
+!
+archive
  log config
   hidekeys
 !
@@ -133,12 +191,12 @@ archive
 !
 !
 interface FastEthernet0/0
- ip address 10.10.10.254 255.255.255.0
+ no ip address
+ shutdown
  duplex auto
  speed auto
 !
 interface FastEthernet0/1
- ip vrf forwarding red
  ip address 192.168.1.2 255.255.255.0
  duplex auto
  speed auto
@@ -153,15 +211,9 @@ interface Serial0/1/1
  shutdown
  clock rate 125000
 !
-router ospf 150 vrf red
- log-adjacency-changes
- redistribute connected subnets
- network 192.168.1.0 0.0.0.255 area 1
-!
-ip route vrf red 0.0.0.0 0.0.0.0 192.168.1.1
 !
 !
-ip http server
+no ip http server
 no ip http secure-server
 !
 !
@@ -169,7 +221,7 @@ no ip http secure-server
 !
 control-plane
 !
-!         
+!
 !
 !
 !
@@ -184,6 +236,7 @@ line vty 0 4
 !
 scheduler allocate 20000 1000
 end
+```
 
     
 
