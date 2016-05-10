@@ -97,18 +97,15 @@ après un *en*, *conf t*:
     no aaa new-model
     memory-size iomem 5
     ip cef
-!
-!
-!
     !
     ip vrf red
     !
     multilink bundle-name authenticated
-!
-!
-voice-card 0
-!
-!
+    !
+  !
+  voice-card 0
+  !
+  !
 !
 !
 !
