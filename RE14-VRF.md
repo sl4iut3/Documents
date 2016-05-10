@@ -65,6 +65,8 @@ après un *en*, *conf t*:
     encap dot1q 3
     ip addr 192.168.1.1 255.255.255.0
 
+plus NAT (classique) 
+
 ## Tests
 
 ### depuis R1
@@ -72,9 +74,13 @@ après un *en*, *conf t*:
     ping vrf red 192.168.1.2    # ping sur R2
     ping vrf blue 192.168.1.2   # ping sur R3
     
+ping sur internet fct
+    
 ### depuis R3
 
     ping 192.168.1.1    # ping sur R1, sans connaissance de VRF
+    
+
 
 ### depuis R2
 
@@ -155,12 +161,64 @@ no aaa new-model
 memory-size iomem 5
 ip cef
 !
+multilink bundle-name authenticated
+!         
+voice-card 0
+!
+archive
+ log config
+  hidekeys
+!
+interface FastEthernet0/0
+ no ip address
+ shutdown
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ ip address 192.168.1.2 255.255.255.0
+ duplex auto
+ speed auto
+!
+line con 0
+line aux 0
+line vty 0 4
+ login
+!
+scheduler allocate 20000 1000
+end
+```
+
+### config R1
+
+```
+version 12.4
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname R1
+!
+boot-start-marker
+boot-end-marker
 !
 !
+no aaa new-model
+memory-size iomem 5
+ip cef
+!
+!
+!
+!
+ip vrf TOTO
+!
+ip vrf blue
+!
+ip vrf red
 !
 multilink bundle-name authenticated
 !
-!         
+!
 voice-card 0
 !
 !
@@ -177,7 +235,7 @@ voice-card 0
 !
 !
 !
-!
+!         
 !
 !
 !
@@ -190,14 +248,32 @@ archive
 !
 !
 !
+interface Loopback10
+ ip vrf forwarding red
+ ip address 192.168.25.1 255.255.255.0
+!
 interface FastEthernet0/0
  no ip address
- shutdown
+ ip nat inside
+ ip virtual-reassembly
  duplex auto
  speed auto
+!         
+interface FastEthernet0/0.1
+ encapsulation dot1Q 2
+ ip vrf forwarding red
+ ip address 192.168.1.1 255.255.255.0
+!
+interface FastEthernet0/0.2
+ encapsulation dot1Q 3
+ ip vrf forwarding blue
+ ip address 192.168.1.1 255.255.255.0
 !
 interface FastEthernet0/1
- ip address 192.168.1.2 255.255.255.0
+ ip vrf forwarding red
+ ip address 10.23.0.88 255.255.255.0
+ ip nat outside
+ ip virtual-reassembly
  duplex auto
  speed auto
 !
@@ -205,23 +281,30 @@ interface Serial0/1/0
  no ip address
  shutdown
  clock rate 125000
-!
+!         
 interface Serial0/1/1
  no ip address
  shutdown
  clock rate 125000
 !
+router ospf 200 vrf red
+ log-adjacency-changes
+ network 192.168.1.0 0.0.0.255 area 1
+!
+ip route 0.0.0.0 0.0.0.0 10.23.0.254
 !
 !
 no ip http server
 no ip http secure-server
+ip nat source list 100 interface FastEthernet0/1
 !
+access-list 100 permit ip 192.168.1.0 0.0.0.255 any
 !
 !
 !
 control-plane
 !
-!
+!         
 !
 !
 !
@@ -236,7 +319,6 @@ line vty 0 4
 !
 scheduler allocate 20000 1000
 end
-```
 
-    
+```
 
