@@ -7,6 +7,8 @@ idée reprise du document http://www.packetu.com/2012/07/12/vrfing-101-understin
 
 ## Topologie physique
 
+
+```
                                       192.168.1.2 +----+
                               +-----------------  | R2 |
                               | vlan2       fa0/1 +----+
@@ -17,7 +19,8 @@ idée reprise du document http://www.packetu.com/2012/07/12/vrfing-101-understin
       0.                     |        192.168.1.2 +----+
       88.                    +- ----------------  | R3 |
                                 vlan3       fa0/1 +----+
-         
+```
+
 ## Config basique routeur R3         
 
 après un *en*, *conf t*:
@@ -74,18 +77,131 @@ plus NAT (classique)
     ping vrf red 192.168.1.2    # ping sur R2
     ping vrf blue 192.168.1.2   # ping sur R3
     
-ping sur internet fct
-    
+ping sur internet fct (avant de placer l'interface ext en vrf red, me semble-t-il)
+
+```
+R1#ping 192.168.1.2
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 192.168.1.2, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+R1#ping vrf red 192.168.1.2
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 192.168.1.2, timeout is 2 seconds:
+!!!!!
+Success rate is 100 percent (5/5), round-trip min/avg/max = 1/2/4 ms
+R1#ping vrf blue 192.168.1.2
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 192.168.1.2, timeout is 2 seconds:
+!!!!!
+Success rate is 100 percent (5/5), round-trip min/avg/max = 1/2/4 ms
+R1#ping 8.8.8.8             
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 8.8.8.8, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+R1#ping vrf red 8.8.8.8
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 8.8.8.8, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+R1#ping vrf red 8.8.8.8
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 8.8.8.8, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+
+
+```
+
 ### depuis R3
 
     ping 192.168.1.1    # ping sur R1, sans connaissance de VRF
     
+```
+R3#ping 192.168.1.1
 
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 192.168.1.1, timeout is 2 seconds:
+!!!!!
+Success rate is 100 percent (5/5), round-trip min/avg/max = 1/2/4 ms
+R3#ping 8.8.8.8    
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 8.8.8.8, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+R3#ping 10.23.0.88
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.23.0.88, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+R3#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R3(config)#ip rou
+R3(config)#ip route 0.0.0.0 0.0.0.0 192.168.1.1
+R3(config)#exit
+R3#ping 10.23.0.88
+*Jan  1 01:41:50.255: %SYS-5-CONFIG_I: Configured from console by console
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.23.0.88, timeout is 2 seconds:
+U.U.U
+Success rate is 0 percent (0/5)
+R3#ping 10.23.0.88
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.23.0.88, timeout is 2 seconds:
+U.U.U
+Success rate is 0 percent (0/5)
+
+```
 
 ### depuis R2
 
     ping vrf red 192.168.1.1    # ping sur R1 en connaissant la VRF
     ping 192.168.1.1            # ping sur R1, sans VRF (ne fct pas, normal)
+
+```
+R2#ping 192.168.1.1
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 192.168.1.1, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+R2#ping vrf red 192.168.1.1
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 192.168.1.1, timeout is 2 seconds:
+!!!!!
+Success rate is 100 percent (5/5), round-trip min/avg/max = 1/2/4 ms
+R2#ping vrf red 10.23.0.88 
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.23.0.88, timeout is 2 seconds:
+!!!!!
+Success rate is 100 percent (5/5), round-trip min/avg/max = 1/2/4 ms
+R2#ping vrf red 10.23.0.254
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.23.0.254, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+R2#ping 10.23.0.88         
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.23.0.88, timeout is 2 seconds:
+.....
+Success rate is 0 percent (0/5)
+
+```
     
 ## config complètes
 
