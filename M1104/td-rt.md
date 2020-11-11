@@ -71,13 +71,13 @@ Il ne nous reste plus qu'à déterminer les constantes $A$ et $k$ grâce aux con
 **Conditions initiales et finales lors de la fermeture de K pour le circuit de la figure 1 :**
 
 * le condensateur est initialement déchargé, donc $v_C(t=0)=0$. 
-* Quand il sera chargé complètement au bout d'un temps important (par exemple si $t \to+\infty$), il n'y aura plus de courant qui circulera dans le circuit (plus de courant de charge puisque C sera chargé). La seule possibilité est alors que $v_C=E$, ce que l'on écrira sous la forme $$\lim_{t \rarr\infty}Vc(t)= E$$
+* Quand il sera chargé complètement au bout d'un temps important (par exemple si $t \to+\infty$), il n'y aura plus de courant qui circulera dans le circuit (plus de courant de charge puisque C sera chargé). La seule possibilité est alors que $v_C=E$, ce que l'on écrira sous la forme $\lim_{t \to\infty}Vc(t)= E$
 
 On obtient donc :
 $$
 \begin{aligned}
 Vc(t=0) &= A+k = 0\\
-\lim_{t->\infty}Vc(t) &= A = E\\
+\lim_{t\to\infty}Vc(t) &= A = E\\
 \end{aligned}
 $$
 
@@ -151,6 +151,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NDUwMzkxLDk4NTUwODE0MywxMTM3MD
-kyMDk0XX0=
+eyJoaXN0b3J5IjpbMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNz
+A5MjA5NF19
 -->
