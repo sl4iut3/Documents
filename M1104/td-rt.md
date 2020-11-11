@@ -120,8 +120,7 @@ On obtient alors en reconnectant la charge le circuit suivant :
 
 ![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/tdrt-fig2-Thevenin-schema.svg)
 
-IL'équation de $Vc$ sera donc la m
-donc la solution complète (d'après le schéma de la fig. 1) est :
+L'équation de $Vc$ aura donc la même expression que pour le circuit de la figure 1 en remplaçant $E$ par $Eth$ et $r$ par $Rth$. Ceci nous donne l'expression suivante :
 $$
 Vc(t)=Eth(1-\exp(-t/\tau))
 $$
@@ -159,7 +158,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIwNzY4ODksMjA4NzA2MjM4NywtOD
-EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
-OTRdfQ==
+eyJoaXN0b3J5IjpbNDMxMTU5ODQzLDIwODcwNjIzODcsLTgxMj
+I1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0
+XX0=
 -->
