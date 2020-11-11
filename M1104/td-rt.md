@@ -122,7 +122,7 @@ On obtient alors en reconnectant la charge le circuit suivant :
 
 L'équation de $Vc$ aura donc la même expression que pour le circuit de la figure 1 en remplaçant $E$ par $Eth$ et $r$ par $Rth$. Ceci nous donne l'expression suivante :
 $$
-Vc(t)=Eth(1-\exp(-t/\tau))
+\colorbox{aqua}{Vc(t)=Eth(1-\exp(-t/\tau))
 $$
 avec $\tau=(Rth+R)C$
 
@@ -161,15 +161,15 @@ $$
 *  Au bout d'un certain temps ($\infty$ !!, le condensateur est totalement déchargé et donc $\color{red}\lim_{t\to\infty}Vc(t)= A = 0$
 
 et la solution complète est donc:
+$$
 \colorbox{aqua}{ $Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau)) $}
-
-
+$$
 figure todo
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYyNjkyNzMsMjA4NzA2MjM4NywtOD
-EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
-OTRdfQ==
+eyJoaXN0b3J5IjpbNjExMzc0MDkyLDIwODcwNjIzODcsLTgxMj
+I1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0
+XX0=
 -->
