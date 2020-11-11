@@ -96,12 +96,12 @@ K ouvert, donc aucun courant ne peut circuler. Le condensateur ne peut donc se d
 
 
 ### Figure 2 : fermeture de l'interrupteur K à l'instant t=0
-Procédons de la même manière que précédemment : écrivons les équations de maille en notant R_G
+Procédons de la même manière que précédemment : écrivons les équations de maille en notant $R_G$ (resp. $R_D$ la résistance $R$ de gauche (resp. de droite) :
 $$
 \begin{aligned}
-E - Vr -VR &=0 \\
-E-vr-Vc-VR&=0\\
-VR-Vc-VR&=0
+E - Vr -VR_G  &=0 \\
+E-vr-Vc-VR_D &=0\\
+-VR_G-Vc-VR_D &=0
 \end{aligned}
 $$
 un peu compliqué....
@@ -152,6 +152,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNDgyNDg5LDE1ODc4MjQ4MzcsOTg1NT
-A4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzE3ODkxNiwxNTg3ODI0ODM3LDk4NT
+UwODE0MywxMTM3MDkyMDk0XX0=
 -->
