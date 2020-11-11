@@ -18,11 +18,11 @@ Moteur (électrique, par exemple)
 **Condensateur / Inductance**
 * RT : lorsque le composant se charge ou se décharge à la mise en fonctionnement ou à l'extinction. Formules à utiliser :
 $$
-i_C = C \frac{dV_C}{dt}~~et~~v_L=L\frac{di_L}{dt}
+i_C = C \frac{dV_C}{dt}~~\textrm{et}~~v_L=L\frac{di_L}{dt}
 $$
 * RP : lorsque le composant est soumis à un signal sinusoïdal de fréquence stable (**régime harmonique**). Formules à utiliser :
 $$
-Z_C=\frac{1}{jC\omega} ~~et~~ Z_L=jL\omega
+Z_C=\frac{1}{jC\omega} ~~\textrm{et}~~ Z_L=jL\omega
 $$
 ## Exercice  1
 
@@ -62,7 +62,7 @@ Pour déterminer les constantes $A$ et $k$, on peut s'intéresser à deux valeur
 $$
 \begin{aligned}
 Vc(t=0) &= A+k\exp(0) =A+k \\ 
-\lim_{t \rarr\infty}Vc(t) &= A+k*0 =A 
+\lim_{t \to\infty}Vc(t) &= A+k*0 =A 
 \end{aligned}
 $$
 
@@ -71,7 +71,7 @@ Il ne nous reste plus qu'à déterminer les constantes $A$ et $k$ grâce aux con
 **Conditions initiales et finales lors de la fermeture de K pour le circuit de la figure 1 :**
 
 * le condensateur est initialement déchargé, donc $v_C(t=0)=0$. 
-* Quand il sera chargé complètement au bout d'un temps important (par exemple si $t \rarr+\infty$), il n'y aura plus de courant qui circulera dans le circuit (plus de courant de charge puisque C sera chargé). La seule possibilité est alors que $v_C=E$, ce que l'on écrira sous la forme $\lim_{t \rarr\infty}Vc(t)= E$
+* Quand il sera chargé complètement au bout d'un temps important (par exemple si $t \to+\infty$), il n'y aura plus de courant qui circulera dans le circuit (plus de courant de charge puisque C sera chargé). La seule possibilité est alors que $v_C=E$, ce que l'on écrira sous la forme $$\lim_{t \rarr\infty}Vc(t)= E$$
 
 On obtient donc :
 $$
@@ -151,5 +151,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbODg1NDUwMzkxLDk4NTUwODE0MywxMTM3MD
+kyMDk0XX0=
 -->
