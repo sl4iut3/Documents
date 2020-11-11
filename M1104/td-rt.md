@@ -116,10 +116,11 @@ Eth&= \frac{R}{R+r}E=6,66666V\\
 Rth&=r//R=50*100/(50+100)=33.33\Omega
 \end{aligned}
 $$
-Figure TODO
+On obtient alors en reconnectant la charge le circuit suivant :
 
-![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/tdrt-Fig2Thevenin-schema.svg)
+![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/tdrt-fig2-Thevenin-schema.svg)
 
+IL'équation de $Vc$ sera donc la m
 donc la solution complète (d'après le schéma de la fig. 1) est :
 $$
 Vc(t)=Eth(1-\exp(-t/\tau))
@@ -158,7 +159,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDYwMDYyOCwyMDg3MDYyMzg3LC04MT
-IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
-NF19
+eyJoaXN0b3J5IjpbLTE2MDIwNzY4ODksMjA4NzA2MjM4NywtOD
+EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
+OTRdfQ==
 -->
