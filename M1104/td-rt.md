@@ -35,7 +35,7 @@ E -ri-Vc-Ri &= 0 \\
 (r+R)i+Vc &=E 
 \end{aligned}
 $$
-Or, le courant $i$  du circuit, circule aussi dans le condensateur. Donc : $i=i_C=C\frac{dVc}{dt}$. Remplaçons $i$ par cette expression dans l'équation de maille. On obtient alors l'équation différentielle suivante : 
+Or, le courant $i$  du circuit, circule aussi dans le condensateur. Donc : $i=i_C=C\frac{dVc}{dt}$. Remplaçons $i$ par cette expression dans l'équation de maille. On obtient alors l'équation différentielle du 1ier ordre suivante : 
 $$
 \begin{aligned}
 (r+R)C\frac{dVc}{dt}+Vc&=E \\
@@ -71,13 +71,13 @@ Il ne nous reste plus qu'à déterminer les constantes $A$ et $k$ grâce aux con
 
 **Conditions initiales et finales lors de la fermeture de K pour le circuit de la figure 1 :**
 
-* le condensateur est initialement déchargé, donc $v_C(t=0)=0$. 
-* Quand il sera chargé complètement au bout d'un temps important (par exemple si $t \to+\infty$), il n'y aura plus de courant qui circulera dans le circuit (plus de courant de charge puisque C sera chargé). La seule possibilité est alors que $v_C=E$, ce que l'on écrira sous la forme $\lim_{t \to\infty}Vc(t)= E$
+* le condensateur est initialement déchargé, donc $\color{red}v_C(t=0)=0$. 
+* Quand il sera chargé complètement au bout d'un temps important (par exemple si $t \to+\infty$), il n'y aura plus de courant qui circulera dans le circuit (plus de courant de charge puisque C sera chargé). La seule possibilité est alors que $\color{red}v_C=E$, ce que l'on écrira sous la forme $\color{red}\lim_{t \to\infty}Vc(t)= E$
 
 On obtient donc :
 $$
 \begin{aligned}
-Vc(t=0) &= A+k = 0\\
+\color{red} Vc(t=0) &= A+k = 0\\
 \lim_{t\to\infty}Vc(t) &= A = E\\
 \end{aligned}
 $$
@@ -152,6 +152,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM4NjIyMjYsMTU4NzgyNDgzNyw5OD
+eyJoaXN0b3J5IjpbLTEyMzU3Mjg1MTYsMTU4NzgyNDgzNyw5OD
 U1MDgxNDMsMTEzNzA5MjA5NF19
 -->
