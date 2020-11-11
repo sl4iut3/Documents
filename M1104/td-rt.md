@@ -157,18 +157,19 @@ $$
 
 **Nouvelles conditions initiales (CI)  à t'=0 (instant où K est ouvert):** 
 
-* $Vc(t'=0) = A+k = Eth$ 
-*  $\lim_{t->\infty}Vc(t)= A = 0$
+* $\color{red}Vc(t'=0) = A+k = Eth$ 
+*  $\color{red}\lim_{t\to\infty}Vc(t)= A = 0$
 
-donc la solution complète est :
+et la solution complète est donc:
 $$
-Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau))
+\color{red}Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau))
 $$
 figure todo
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzQxNzAzNywyMDg3MDYyMzg3LC04MT
+eyJoaXN0b3J5IjpbLTYwOTM5NzE0NCwyMDg3MDYyMzg3LC04MT
 IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
 NF19
 -->
