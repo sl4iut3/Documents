@@ -141,10 +141,15 @@ $$
 \begin{aligned}
 2RC\frac{dVc}{dt}+Vc&=0\\
 \frac{dVc}{dt}+\frac{1}{2RC}Vc&=0\\
-\frac{dVc}{dt}+\frac{1}{\tau}Vc&=0
 \end{aligned}
 $$
-avec $\tau=2RC$
+On obtient donc la forme canonique d'une équation du 1ier degré :
+$$
+\begin{aligned}
+\frac{dVc}{dt}+\frac{1}{\tau}Vc&=0 \textrm{avec} \tau=2RC
+\end{aligned}
+$$
+
 La solution de cette équation est : 
 $$
 Vc(t)=A+k\exp(-t/\tau)
@@ -164,7 +169,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDAyODUwMCwyMDg3MDYyMzg3LC04MT
-IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
-NF19
+eyJoaXN0b3J5IjpbLTE4OTM0NjQyNzEsMjA4NzA2MjM4NywtOD
+EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
+OTRdfQ==
 -->
