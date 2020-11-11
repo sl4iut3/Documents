@@ -99,7 +99,7 @@ K ouvert, donc aucun courant ne peut circuler. Le condensateur ne peut donc se d
 Procédons de la même manière que précédemment : écrivons les équations de maille en notant $R_G$ (resp. $R_D$ la résistance $R$ de gauche (resp. de droite) :
 $$
 \begin{aligned}
-\lbrace E - Vr -V_{R_G}  &=0 \\
+E - Vr -V_{R_G}  &=0 \\
 E-vr-Vc-V_{R_D} &=0\\
 -V_{R_G}-Vc-V_{R_D} &=0 
 \end{aligned}
@@ -109,6 +109,7 @@ Utilisons plutôt le théorème de Thévenin : la charge C+R déconnectée, il r
 
 ![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/fig2Thevenin.png)
 
+Le générateur de Thévenin équivalent se calcule aisément et on obtient 
 $$
 Eth= \frac{R}{R+r}E=6,66666V\\
 Rth=r//R=50*100/150=33.33\Omega
@@ -152,6 +153,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAyMTc2ODMsLTgxMjI1MTk3OCwxNT
-g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbLTc5NDI2MzE1NSwtODEyMjUxOTc4LDE1OD
+c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
