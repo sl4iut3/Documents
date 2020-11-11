@@ -123,7 +123,7 @@ Rth&=r//R=50*100/(50+100)=33.33\Omega
 $$
 On obtient alors en reconnectant la charge le circuit suivant :
 
-![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/tdrt-fig2-thevenin-schema.png)
+![thévenin](https://github.com/sl4iut3/Documents/raw/master/M1104/tdrt-fig2-thevenin-schema.png)
 
 L'équation de $Vc$ aura donc la même expression que pour le circuit de la figure 1 en remplaçant $E$ par $Eth$ et $r$ par $Rth$. Ceci nous donne l'expression suivante :
 $$
@@ -178,7 +178,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMz
-kyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3
-OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbMTU3NjYyMjgyOSwxNTk4ODYxNzcwLDEyNj
+U5NjQ0MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4
+NywtODEyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMz
+cwOTIwOTRdfQ==
 -->
