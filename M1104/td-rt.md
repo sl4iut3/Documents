@@ -174,11 +174,11 @@ $$
 **Résultats obtenus par simulation**
 ![circuit RC simulé vec LTSpice](https://github.com/sl4iut3/Documents/raw/master/M1104/circuitRC.png)
 
-
+![graphes obtenus](https://github.com/sl4iut3/Documents/raw/master/M1104/circuitRC-graphes.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjI4Nzc4LDEyNjU5NjQ0MTksNzIzOT
-I5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4
-LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMz
+kyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3
+OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
 -->
