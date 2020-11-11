@@ -157,8 +157,8 @@ $$
 
 **Nouvelles conditions initiales (CI)  à t'=0 (instant où K est ouvert):** 
 
-* $\color{red}Vc(t'=0) = A+k = Eth$ 
-*  $\color{red}\lim_{t\to\infty}Vc(t)= A = 0$
+* Lorsque l'on ouvre l'interrupteur, le condensateur est supposé chargé à sa valeur finale ($Eth$ d'après la question précédente) et donc $\color{red}Vc(t'=0) = A+k = Eth$ 
+*  Au bout d'un certain temps ($$\color{red}\lim_{t\to\infty}Vc(t)= A = 0$
 
 et la solution complète est donc:
 $$
@@ -169,7 +169,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTM5NzE0NCwyMDg3MDYyMzg3LC04MT
-IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
-NF19
+eyJoaXN0b3J5IjpbMzQ5MzcyMDMwLDIwODcwNjIzODcsLTgxMj
+I1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0
+XX0=
 -->
