@@ -117,6 +117,9 @@ Rth&=r//R=50*100/(50+100)=33.33\Omega
 \end{aligned}
 $$
 Figure TODO
+
+![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/tdrt-fig2Thevenin-schema.svg)
+
 donc la solution complète (d'après le schéma de la fig. 1) est :
 $$
 Vc(t)=Eth(1-\exp(-t/\tau))
@@ -155,6 +158,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
-c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MzY5NTM2NywyMDg3MDYyMzg3LC04MT
+IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
+NF19
 -->
