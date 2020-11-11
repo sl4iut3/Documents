@@ -99,9 +99,9 @@ K ouvert, donc aucun courant ne peut circuler. Le condensateur ne peut donc se d
 Procédons de la même manière que précédemment : écrivons les équations de maille en notant $R_G$ (resp. $R_D$ la résistance $R$ de gauche (resp. de droite) :
 $$
 \begin{aligned}
-E - Vr -V_{R_G}  &=0 \\
+\lbrace E - Vr -V_{R_G}  &=0 \\
 E-vr-Vc-V_{R_D} &=0\\
--V_{R_G}-Vc-V_{R_D} &=0
+-V_{R_G}-Vc-V_{R_D} &=0 
 \end{aligned}
 $$
 un peu compliqué....
@@ -152,6 +152,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NT
-UwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbLTE3NjAyMTc2ODMsLTgxMjI1MTk3OCwxNT
+g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
 -->
