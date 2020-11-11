@@ -162,14 +162,15 @@ $$
 
 et la solution complète est donc:
 $$
-\color{pi}Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau))
+\colorbox{aqua}{Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau))}
 $$
+
 figure todo
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NDcwNDUzLDIwODcwNjIzODcsLTgxMj
-I1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0
-XX0=
+eyJoaXN0b3J5IjpbMTkwNjY4NDE2MSwyMDg3MDYyMzg3LC04MT
+IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
+NF19
 -->
