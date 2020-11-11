@@ -41,7 +41,7 @@ $$
 (r+R)C\frac{dVc}{dt}+Vc&=E \\
 \end{aligned}
 $$
-En divisant l'équation par $(r+R)C$ on obtient la forme canonique de cette équation , c'est-à-dire : 
+En divisant l'équation par $(r+R)C$ on obtient la **forme canonique** de cette équation , c'est-à-dire : 
 $$
 \begin{aligned}
 \frac{dVc}{dt}+\frac{1}{(r+R)C}Vc&=\frac{E}{(r+R)C} \\
@@ -82,7 +82,7 @@ Vc(t=0) &= A+k = 0\\
 \end{aligned}
 $$
 
-La solution complète est donc :
+Les constantes sont donc déterminées : $A=E$ et $k=-A=-E$ et la solution complète est donc :
 $$
 \begin{aligned}
 Vc(t) =E+(-E)\exp(-t/\tau)\\
@@ -173,7 +173,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTk2MDcwMiwyMDg3MDYyMzg3LC04MT
+eyJoaXN0b3J5IjpbLTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MT
 IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
 NF19
 -->
