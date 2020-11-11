@@ -106,7 +106,7 @@ $$
 un peu compliqué....
 Utilisons plutôt le théorème de Thévenin : la charge C+R déconnectée, il reste un générateur "compliqué" : E, r et R
 
-![enter image description here](file:///home/gl/Images/fig2Thevenin.png)
+![enter image description here](fig2Thevenin.png)
 
 figure TODO
 $$
