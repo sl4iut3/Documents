@@ -146,17 +146,16 @@ $$
 On obtient donc la forme canonique d'une équation du 1ier degré :
 $$
 \begin{aligned}
-\frac{dVc}{dt}+\frac{1}{\tau}Vc&=0 \textrm{avec} \tau=2RC
+\frac{dVc}{dt}+\frac{1}{\tau}Vc&=0 ~~\textrm{avec} ~\tau=2RC
 \end{aligned}
 $$
 
-La solution de cette équation est : 
+Comme d'habitude , la solution de cette équation est : 
 $$
-Vc(t)=A+k\exp(-t/\tau)
+Vc(t)=A+k\exp(-t/\tau) ~~\textrm{avec} ~\tau=2RC
 $$
-avec $\tau=2RC$
 
-Nouvelles conditions initiales (CI)  à t'=0 (instant où K est ouvert): 
+**Nouvelles conditions initiales (CI)  à t'=0 (instant où K est ouvert):** 
 
 * $Vc(t'=0) = A+k = Eth$ 
 *  $\lim_{t->\infty}Vc(t)= A = 0$
@@ -169,7 +168,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM0NjQyNzEsMjA4NzA2MjM4NywtOD
-EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTY2NzQxNzAzNywyMDg3MDYyMzg3LC04MT
+IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
+NF19
 -->
