@@ -86,7 +86,7 @@ La solution complète est donc :
 $$
 \begin{aligned}
 Vc(t) &=E+(-E)\exp(-t/\tau)\\
-&= \color{red}E(1-\exp(-t/\tau))
+\colorbox{aqua}{$Vc &= E(1-\exp(-t/\tau))~\textrm{avec}~\tau=RC$}
 \end{aligned}
 $$
 Voir le cours de Math pour approfondir les équations différentielles ou encore [ce lien pour ceux qui voudraient plus de détails sur les équations différentielles,](http://www.tsi.lycee-louis-vincent.fr/wp-content/uploads/2013/12/equadiff.pdf) 
@@ -168,7 +168,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY2OTY0NjEsMjA4NzA2MjM4NywtOD
-EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTk2NzQ3NTU4MSwyMDg3MDYyMzg3LC04MT
+IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
+NF19
 -->
