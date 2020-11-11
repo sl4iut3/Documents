@@ -32,7 +32,7 @@ Ecrivons l'équation de maille :
 $$
 \begin{aligned}
 E -ri-Vc-Ri &= 0 \\
-(r+R)i+Vc&=E 
+(r+R)i+Vc &=E 
 \end{aligned}
 $$
 Or, le courant $i$  du circuit, circule aussi dans le condensateur. Donc : $i=i_C=C\frac{dVc}{dt}$. Remplaçons $i$ par cette expression dans l'équation de maille. On obtient alors l'équation différentielle suivante : 
@@ -106,7 +106,7 @@ $$
 un peu compliqué....
 Utilisons plutôt le théorème de Thévenin : la charge C+R déconnectée, il reste un générateur "compliqué" : E, r et R
 
-![circuit](https://github.com/sl4iut3/Documents/blob/master/M1104/fig2Thevenin.png)
+![circuit]([https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/fig2Thevenin.png](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/fig2Thevenin.png))
 
 figure TODO
 $$
@@ -150,5 +150,5 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU5MTU2MTEsMTEzNzA5MjA5NF19
+eyJoaXN0b3J5IjpbOTcwNzU4ODEzLDExMzcwOTIwOTRdfQ==
 -->
