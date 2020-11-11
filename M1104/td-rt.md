@@ -54,6 +54,10 @@ $$
 \frac{dVc}{dt}+\frac{1}{\tau}Vc&=\frac{E}{\tau} 
 \end{aligned}
 $$
+|  |  |
+|--|--|
+|  |  |
+
 Mathématiquement parlant, la solution de cette équation est : 
 $$
 Vc(t)=A+k\exp(-t/\tau)
@@ -151,6 +155,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MzY4NjczLDE1ODc4MjQ4MzcsOTg1NT
-A4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbLTE3MzEzMDUzNywxNTg3ODI0ODM3LDk4NT
+UwODE0MywxMTM3MDkyMDk0XX0=
 -->
