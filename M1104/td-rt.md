@@ -107,7 +107,7 @@ $$
 un peu compliqué....
 Utilisons plutôt le théorème de Thévenin : la charge C+R déconnectée, il reste un générateur "compliqué" : E, r et R
 
-![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/fig2Thevenin.png)
+![circuit décomposé pour calculer Thévenin](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/fig2Thevenin.png)
 
 Le générateur de Thévenin équivalent se calcule aisément et on obtient les résultats suivants :
 $$
@@ -118,7 +118,7 @@ Rth&=r//R=50*100/(50+100)=33.33\Omega
 $$
 Figure TODO
 
-![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/tdrt-fig2Thevenin-schema.svg)
+![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/tdrt-Fig2Thevenin-schema.svg)
 
 donc la solution complète (d'après le schéma de la fig. 1) est :
 $$
@@ -158,7 +158,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY5NTM2NywyMDg3MDYyMzg3LC04MT
+eyJoaXN0b3J5IjpbLTc2NDYwMDYyOCwyMDg3MDYyMzg3LC04MT
 IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
 NF19
 -->
