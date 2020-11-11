@@ -57,13 +57,13 @@ $$
 
 Mathématiquement parlant, la solution de cette équation est : 
 $$
-\color{blue}Vc(t)=A+k\exp(-t/\tau)
+\colorbox{aqua}{$Vc(t)=A+k\exp(-t/\tau)$}
 $$
 Pour déterminer les constantes $A$ et $k$, on peut s'intéresser à deux valeurs particulières de cette solution :
 $$
 \begin{aligned}
 \colorbox{aqua}{$Vc(t=0)$} &= A+k\exp(0) =\colorbox{aqua}{$A+k$} \\ 
-\colorbox{aqua}{$\lim_{t \to\infty}Vc(t)$} &= A+k*0 =A 
+\colorbox{aqua}{$\lim_{t \to\infty}Vc(t)$} &= A+k*0 =\colorbox{aqua}{$A$} 
 \end{aligned}
 $$
 
@@ -173,7 +173,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzIzMTcxMywyMDg3MDYyMzg3LC04MT
+eyJoaXN0b3J5IjpbMTYzNTk2MDcwMiwyMDg3MDYyMzg3LC04MT
 IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
 NF19
 -->
