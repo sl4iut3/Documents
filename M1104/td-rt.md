@@ -91,7 +91,7 @@ $$
 
 $$
 \begin{aligned}
-\colorbox{aqua}{$Vc = E(1-\exp(-/\tau))~\textrm{avec}~\tau=RC$}
+\colorbox{aqua}{$Vc = E(1-\exp(-t/\tau))~\textrm{avec}~\tau=RC$}
 \end{aligned}
 $$
 Voir le cours de Math pour approfondir les équations différentielles ou encore [ce lien pour ceux qui voudraient plus de détails sur les équations différentielles,](http://www.tsi.lycee-louis-vincent.fr/wp-content/uploads/2013/12/equadiff.pdf) 
@@ -178,8 +178,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjM1MjkwOSwxNTk4ODYxNzcwLDEyNj
-U5NjQ0MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4
-NywtODEyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMz
-cwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbMjI1MjY1MzYzLDExNTIzNTI5MDksMTU5OD
+g2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEz
+LDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NT
+UwODE0MywxMTM3MDkyMDk0XX0=
 -->
