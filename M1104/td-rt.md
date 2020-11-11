@@ -109,10 +109,12 @@ Utilisons plutôt le théorème de Thévenin : la charge C+R déconnectée, il r
 
 ![circuit](https://raw.githubusercontent.com/sl4iut3/Documents/master/M1104/fig2Thevenin.png)
 
-Le générateur de Thévenin équivalent se calcule aisément et on obtient 
+Le générateur de Thévenin équivalent se calcule aisément et on obtient les résultats suivants :
 $$
-Eth= \frac{R}{R+r}E=6,66666V\\
-Rth=r//R=50*100/150=33.33\Omega
+\begin{aligned}
+Eth&= \frac{R}{R+r}E=6,66666V\\
+Rth&=r//R=50*100/(50+100)=33.33\Omega
+\end{aligned}
 $$
 Figure TODO
 donc la solution complète (d'après le schéma de la fig. 1) est :
@@ -153,6 +155,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDI2MzE1NSwtODEyMjUxOTc4LDE1OD
+eyJoaXN0b3J5IjpbMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
 c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
