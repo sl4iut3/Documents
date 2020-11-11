@@ -122,12 +122,14 @@ avec $\tau=(Rth+R)C$
 
 Si K est ouvert, alors E et r n'ont plus aucun rôle dans le circuit (pas de courant dans cette branche du circuit). Ne reste que C et les 2 résistances R.
 $$
--Ri-Vc-Ri=0 \\
--2Ri-Vc=0\\
-2Ri+Vc=0\\
-2RC\frac{dVc}{dt}+Vc=0\\
-\frac{dVc}{dt}+\frac{1}{2RC}Vc=0\\
-\frac{dVc}{dt}+\frac{1}{\tau}Vc=0
+\begin{aligned}
+-Ri-Vc-Ri&=0 \\
+-2Ri-Vc&=0\\
+2Ri+Vc&=0\\
+2RC\frac{dVc}{dt}+Vc&=0\\
+\frac{dVc}{dt}+\frac{1}{2RC}Vc&=0\\
+\frac{dVc}{dt}+\frac{1}{\tau}Vc&=0
+\end{aligned}
 $$
 avec $\tau=2RC$
 La solution de cette équation est : 
@@ -149,5 +151,5 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTczMzQ5LDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
