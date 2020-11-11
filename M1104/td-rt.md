@@ -128,12 +128,17 @@ avec $\tau=(Rth+R)C$
 
 ### Figure 2 : ouverture de l'interrupteur K à l'instant t=0
 
-Si K est ouvert, alors E et r n'ont plus aucun rôle dans le circuit (pas de courant dans cette branche du circuit). Ne reste donc que C et les 2 résistances R. Notons $i$ le courant qui circule dans cette maille (C,R_D, R 
+Si K est ouvert, alors E et r n'ont plus aucun rôle dans le circuit (pas de courant dans cette branche du circuit). Ne reste donc que C et les 2 résistances R. Notons $i$ le courant qui circule dans cette maille $(C,R_D, R_G)$ et prenons un courant circulant dans le sens horaire. On peut alors écrire : 
 $$
 \begin{aligned}
 -Ri-Vc-Ri&=0 \\
 -2Ri-Vc&=0\\
 2Ri+Vc&=0\\
+\end{aligned}
+$$
+Ce courant circu
+$$
+\begin{aligned}
 2RC\frac{dVc}{dt}+Vc&=0\\
 \frac{dVc}{dt}+\frac{1}{2RC}Vc&=0\\
 \frac{dVc}{dt}+\frac{1}{\tau}Vc&=0
@@ -159,7 +164,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM2MTMwNTUsMjA4NzA2MjM4NywtOD
-EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTY2NjA0ODE4NCwyMDg3MDYyMzg3LC04MT
+IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
+NF19
 -->
