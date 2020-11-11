@@ -161,16 +161,15 @@ $$
 *  Au bout d'un certain temps ($\infty$ !!, le condensateur est totalement déchargé et donc $\color{red}\lim_{t\to\infty}Vc(t)= A = 0$
 
 et la solution complète est donc:
-$$
-\colorbox{aqua}{Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau))}
-$$
+\colorbox{aqua}{ $Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau)) $}
+
 
 figure todo
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjY4NDE2MSwyMDg3MDYyMzg3LC04MT
-IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
-NF19
+eyJoaXN0b3J5IjpbLTEyMjYyNjkyNzMsMjA4NzA2MjM4NywtOD
+EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
+OTRdfQ==
 -->
