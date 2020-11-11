@@ -170,12 +170,15 @@ et la solution complète est donc:
 $$
 \colorbox{aqua}{ $Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau)) $}
 $$
-figure todo
+
+**Résultats obtenus par simulation**
+![circuit RC simulé vec LTSpice](https://github.com/sl4iut3/Documents/raw/master/M1104/circuitRC.png)
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTk2NDQxOSw3MjM5MjkzNzQsLTUzMj
-M3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4NzgyNDgz
-Nyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
+eyJoaXN0b3J5IjpbMTcwNjI4Nzc4LDEyNjU5NjQ0MTksNzIzOT
+I5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4
+LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
