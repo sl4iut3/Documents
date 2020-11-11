@@ -133,10 +133,10 @@ $$
 \begin{aligned}
 -Ri-Vc-Ri&=0 \\
 -2Ri-Vc&=0\\
-2Ri+Vc&=0\\
+2Ri+Vc&=0
 \end{aligned}
 $$
-Ce courant circu
+Ce courant $i$ circulant dans le condensateur, on peut alors le remplacer par l'expression bien connue $C\frac{dVc}{dt}$ :
 $$
 \begin{aligned}
 2RC\frac{dVc}{dt}+Vc&=0\\
@@ -164,7 +164,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjA0ODE4NCwyMDg3MDYyMzg3LC04MT
+eyJoaXN0b3J5IjpbMTMzNDAyODUwMCwyMDg3MDYyMzg3LC04MT
 IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
 NF19
 -->
