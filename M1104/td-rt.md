@@ -125,9 +125,10 @@ $$
 Vc(t)=Eth(1-\exp(-t/\tau))
 $$
 avec $\tau=(Rth+R)C$
+
 ### Figure 2 : ouverture de l'interrupteur K à l'instant t=0
 
-Si K est ouvert, alors E et r n'ont plus aucun rôle dans le circuit (pas de courant dans cette branche du circuit). Ne reste que C et les 2 résistances R.
+Si K est ouvert, alors E et r n'ont plus aucun rôle dans le circuit (pas de courant dans cette branche du circuit). Ne reste donc que C et les 2 résistances R. Notons $i$ le courant qui circule dans cette maille (C,R_D, R 
 $$
 \begin{aligned}
 -Ri-Vc-Ri&=0 \\
@@ -158,7 +159,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMTU5ODQzLDIwODcwNjIzODcsLTgxMj
-I1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0
-XX0=
+eyJoaXN0b3J5IjpbLTE1MjM2MTMwNTUsMjA4NzA2MjM4NywtOD
+EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
+OTRdfQ==
 -->
