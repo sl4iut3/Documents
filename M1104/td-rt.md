@@ -106,7 +106,7 @@ $$
 un peu compliqué....
 Utilisons plutôt le théorème de Thévenin : la charge C+R déconnectée, il reste un générateur "compliqué" : E, r et R
 
-![enter image description here](fig2Thevenin.png)
+![circuit](https://github.com/sl4iut3/Documents/blob/master/M1104/fig2Thevenin.png)
 
 figure TODO
 $$
@@ -150,5 +150,5 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjI2MzY1NiwxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbLTE0ODU5MTU2MTEsMTEzNzA5MjA5NF19
 -->
