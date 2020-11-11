@@ -77,7 +77,7 @@ Il ne nous reste plus qu'à déterminer les constantes $A$ et $k$ grâce aux con
 On obtient donc :
 $$
 \begin{aligned}
-\color{red} Vc(t=0) &= A+k = 0\\
+Vc(t=0) &= A+k = 0\\
 \lim_{t\to\infty}Vc(t) &= A = E\\
 \end{aligned}
 $$
@@ -86,7 +86,7 @@ La solution complète est donc :
 $$
 \begin{aligned}
 Vc(t) &=E+(-E)\exp(-t/\tau)\\
-&=E(1-\exp(-t/\tau))
+&= \color{red}E(1-\exp(-t/\tau))
 \end{aligned}
 $$
 Voir le cours de Math pour approfondir les équations différentielles ou encore [ce lien pour ceux qui voudraient plus de détails sur les équations différentielles,](http://www.tsi.lycee-louis-vincent.fr/wp-content/uploads/2013/12/equadiff.pdf) 
@@ -96,7 +96,7 @@ K ouvert, donc aucun courant ne peut circuler. Le condensateur ne peut donc se d
 
 
 ### Figure 2 : fermeture de l'interrupteur K à l'instant t=0
-Procédons de la même manière que précédemment : écrivons les équations de maille
+Procédons de la même manière que précédemment : écrivons les équations de maille en notant R_G
 $$
 \begin{aligned}
 E - Vr -VR &=0 \\
@@ -152,6 +152,6 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU3Mjg1MTYsMTU4NzgyNDgzNyw5OD
-U1MDgxNDMsMTEzNzA5MjA5NF19
+eyJoaXN0b3J5IjpbMzcyNDgyNDg5LDE1ODc4MjQ4MzcsOTg1NT
+A4MTQzLDExMzcwOTIwOTRdfQ==
 -->
