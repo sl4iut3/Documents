@@ -132,7 +132,9 @@ $$
 
 ### Figure 2 : ouverture de l'interrupteur K à l'instant t=0
 
-Si K est ouvert, alors E et r n'ont plus aucun rôle dans le circuit (pas de courant dans cette branche du circuit). Ne reste donc que C et les 2 résistances R. Notons $i$ le courant qui circule dans cette maille $(C,R_D, R_G)$ et prenons un courant circulant dans le sens horaire. On peut alors écrire : 
+Si K est ouvert, alors E et r n'ont plus aucun rôle dans le circuit (pas de courant dans cette branche du circuit). Ne reste donc que C et les 2 résistances R. 
+Le condensateur C va donc se décharger dans les deux résistances R.
+Notons $i$ le courant qui circule dans cette maille $(C,R_D, R_G)$ et prenons un courant circulant dans le sens horaire. On peut alors écrire : 
 $$
 \begin{aligned}
 -Ri-Vc-Ri&=0 \\
@@ -173,7 +175,7 @@ figure todo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MT
-IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
-NF19
+eyJoaXN0b3J5IjpbNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4Nz
+A2MjM4NywtODEyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQz
+LDExMzcwOTIwOTRdfQ==
 -->
