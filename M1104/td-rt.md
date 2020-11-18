@@ -179,12 +179,17 @@ $$
 ## Exercice 2
 
 ### question 1
-
+Pour $i_1$
 $$
+E-Ri_1=0\\
+E=Ri_1\\
+i_1=E/R
+$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3OTc1MjUzLDIyNTI2NTM2MywxMTUyMz
-UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
-LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
-gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
+eyJoaXN0b3J5IjpbLTg2MDkzMzIzMSwyMjUyNjUzNjMsMTE1Mj
+M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
+LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
+c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
