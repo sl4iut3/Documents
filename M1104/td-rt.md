@@ -252,14 +252,15 @@ i_2(t'=0)=A+k\exp(0/\tau)=A+k=\frac{E}{r}\\
 $$
 La solution générale devient :
 $$
-i_2(t)=0+\frac{E}{r}\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{r}
+i_2(t)=0+\frac{E}{r}\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{R+r}\\
+i_2(t)=\frac{E}{r}\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{R+r}\\
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODA4ODUxMCwtMTIyNzQ2NjkyOSwyMj
-UyNjUzNjMsMTE1MjM1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0
-MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtOD
-EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
-OTRdfQ==
+eyJoaXN0b3J5IjpbNzEyNzMwNjMsLTEyMjc0NjY5MjksMjI1Mj
+Y1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5
+LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMj
+I1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0
+XX0=
 -->
