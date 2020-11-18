@@ -191,12 +191,13 @@ $$
 E-v_L-ri_2=0 \\
 v_L+ri_2=E\\
 L\frac{di_2}{dt}+ri_2=E\\
-\frac{di_2}{dt}+\frac{r}{L}i_2=\frac{E}
+\frac{di_2}{dt}+\frac{r}{L}i_2=\frac{E}{L}
 $$
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTU2OTEzNCwyMjUyNjUzNjMsMTE1Mj
+eyJoaXN0b3J5IjpbLTQ5ODk4NTk5NiwyMjUyNjUzNjMsMTE1Mj
 M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
 LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
 c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
