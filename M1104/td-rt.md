@@ -235,11 +235,16 @@ v_L(t)+(R+r)i_2(t)=0\\
 L\frac{di_2}{dt}+(R+r)i_2=0\\
 \frac{di_2}{dt}+\frac{R+r}{L}i_2=0\\
 $$
+Comme d'habitude , la solution de cette équation est : 
+$$
+i_2(t)=A+k\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{R+r}
+$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM2NDk4NTMsLTEyMjc0NjY5MjksMj
-I1MjY1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0
-NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLT
-gxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDky
-MDk0XX0=
+eyJoaXN0b3J5IjpbMTczMTA3OTA0MSwtMTIyNzQ2NjkyOSwyMj
+UyNjUzNjMsMTE1MjM1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0
+MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtOD
+EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
+OTRdfQ==
 -->
