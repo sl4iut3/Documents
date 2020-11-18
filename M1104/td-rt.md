@@ -212,14 +212,16 @@ i_2(t=0)=A+k\exp(0/\tau)=A+k=0\\
 $$
 La solution générale devient :
 $$
-i_2(t)=A+k\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{r}
+i_2(t)=\frac{E}{r}+(-\frac{E}{r})\exp(-t/\tau) ~~~~\textrm{avec} ~\tau=\frac{L}{r}\\
+i_2(t)=\frac{E}{r}+(-\frac{E}{r})\exp(-t/\tau)~~ ~~\textrm{avec} ~\tau=\frac{L}{r}
+
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDE5MzY0LDIyNTI2NTM2MywxMTUyMz
-UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
-LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
-gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
+eyJoaXN0b3J5IjpbLTE4MDgwMDgyNTksMjI1MjY1MzYzLDExNT
+IzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3
+NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNT
+g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
 -->
