@@ -232,11 +232,12 @@ $$
 -Ri_2(t)-v_L(t)-ri_2(t)=0\\
 Ri_2(t)+v_L(t)+ri_2(t)=0\\
 v_L(t)+(R+r)i_2(t)=0\\
-L\frac{di_2}{dt}+(R+r)i_2(t)=0\\
+L\frac{di_2}{dt}+(R+r)i_2=0\\
+\frac{di_2}{dt}+\frac{R+r}{L}i_2=0\\
 $$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0MTQ5NDcsLTEyMjc0NjY5MjksMj
+eyJoaXN0b3J5IjpbLTE4NTM2NDk4NTMsLTEyMjc0NjY5MjksMj
 I1MjY1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0
 NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLT
 gxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDky
