@@ -247,19 +247,19 @@ $$
 $$  
 Or, d'après la solution générale, on a :
 $$
-i_2(t=0)=A+k\exp(0/\tau)=A+k=0\\
-\lim_{t \to\infty}i_2(t)=A=\frac{E}{r}
+i_2(t'=0)=A+k\exp(0/\tau)=A+k=\frac{E}{r}\\
+\lim_{t \to\infty}i_2(t)=A=0
 $$
 La solution générale devient :
 $$
-i_2(t)=\frac{E}{r}+(-\frac{E}{r})\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{r}
+i_2(t)=0+\frac{E}{r}\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{r}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE2MDY0MTAsLTEyMjc0NjY5MjksMj
-I1MjY1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0
-NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLT
-gxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDky
-MDk0XX0=
+eyJoaXN0b3J5IjpbMTg2ODA4ODUxMCwtMTIyNzQ2NjkyOSwyMj
+UyNjUzNjMsMTE1MjM1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0
+MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtOD
+EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
+OTRdfQ==
 -->
