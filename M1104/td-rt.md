@@ -259,19 +259,20 @@ $$
 ### Question 2.b
 $$
 U'(t)=Ri_1(t)=-Ri_2(t)\\
-U'(t)=-\frac{R}{r}\exp(-t/\tau)
+U'(t)=-\frac{R}{r}E\exp(-t/\tau)
 $$
 
 ### Question 2.3
 En valeur numérique :
 $$
-U'(t)=-\frac{1000}{r}\exp(-t/\tau)
+U'(t)=-\frac{1000}{10}10\exp(-t/\tau)\\
+U'(t)=-1000\exp(-t/\tau)
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTkxMjU3NSwtMTIyNzQ2NjkyOSwyMj
+eyJoaXN0b3J5IjpbLTc3ODAwMTY2NCwtMTIyNzQ2NjkyOSwyMj
 UyNjUzNjMsMTE1MjM1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0
 MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtOD
 EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
