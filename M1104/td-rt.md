@@ -229,13 +229,13 @@ $$
 ### question 2 : on ouvre l'interrupeteur K
 Nouvelle équation de maille avec $i_1(t)=-i_2(t)$
 $$
--R
+-Ri_2(t)-v_L(t)-ri_2(t)=0
 $$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI0MDQ1MTYsLTEyMjc0NjY5MjksMj
-I1MjY1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0
-NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLT
-gxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDky
-MDk0XX0=
+eyJoaXN0b3J5IjpbMjA0OTk4MTg2OSwtMTIyNzQ2NjkyOSwyMj
+UyNjUzNjMsMTE1MjM1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0
+MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtOD
+EyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIw
+OTRdfQ==
 -->
