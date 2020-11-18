@@ -198,14 +198,15 @@ Comme d'habitude , la solution de cette équation est :
 $$
 i_2(t)=A+k\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{r}
 $$
-**conditions initiales (CI)  à t'=0 (instant où K est ouvert):** 
+**conditions initiales (CI)  à t'=0 (instant où K est fermé):**
+ 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA3ODk1MjIsMjI1MjY1MzYzLDExNT
-IzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3
-NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNT
-g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbMTI5Mzg0MzUwMCwyMjUyNjUzNjMsMTE1Mj
+M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
+LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
+c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
