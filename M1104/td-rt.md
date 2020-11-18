@@ -223,13 +223,14 @@ v_L=L\frac{di_2}{dt}=\frac{d}{dt}[ \frac{E}{r}-\frac{E}{r}\exp(-t/\tau) ]\\
 v_L=0+\frac{d}{dt}[ -\frac{E}{r}\exp(-t/\tau) \\
 v_L=0+( -\frac{E}{r})(\frac{-1}{\tau})\exp(-t/\tau) \\
 v_L=0+( -\frac{E}{r})(\frac{-r}{L})\exp(-t/\tau) \\
+v_L=\frac{E}{L}\exp(-t/\tau) \\
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzkyNzkzMiwyMjUyNjUzNjMsMTE1Mj
-M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
-LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
-c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjc0NjY5MjksMjI1MjY1MzYzLDExNT
+IzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3
+NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNT
+g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
 -->
