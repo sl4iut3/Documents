@@ -208,14 +208,18 @@ $$
 Or, d'après la solution générale, on a :
 $$
 i_2(t=0)=A+k\exp(0/\tau)=A+k=0\\
-
+\lim_{t \to\infty}i_2(t)=A=\frac{E}{r}
+$$
+La solution générale devient :
+$$
+i_2(t)=A+k\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{r}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDIxNTA2NiwyMjUyNjUzNjMsMTE1Mj
-M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
-LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
-c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbODk2MDE5MzY0LDIyNTI2NTM2MywxMTUyMz
+UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
+LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
+gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
 -->
