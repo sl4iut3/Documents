@@ -199,13 +199,14 @@ $$
 i_2(t)=A+k\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{r}
 $$
 **conditions initiales (CI)  à t'=0 (instant où K est fermé):**
- 
+Lorsque K se ferme, le courant à l'instant $t=0$ est nul : $i_2(t=0)=0$.
+A artir  
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzg0MzUwMCwyMjUyNjUzNjMsMTE1Mj
+eyJoaXN0b3J5IjpbMTI0MjQ0ODIwNCwyMjUyNjUzNjMsMTE1Mj
 M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
 LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
 c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
