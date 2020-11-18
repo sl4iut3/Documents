@@ -205,13 +205,17 @@ $$
 \lim_{t \to\infty} v_L(t)=\lim_{t \to\infty}L\frac{di_2}{dt}=0~car~i_2=cste\\
 \lim_{t \to\infty}i_2(t)=\frac{E}{r}
 $$  
+Or, d'après la solution générale, on a :
+$$
+i_2(t=0)=A+k\exp(0/\tau)=A+k=0\\
 
+$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI3MTU4MTEsMjI1MjY1MzYzLDExNT
-IzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3
-NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNT
-g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbLTI3MDIxNTA2NiwyMjUyNjUzNjMsMTE1Mj
+M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
+LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
+c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
