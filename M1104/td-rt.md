@@ -202,14 +202,14 @@ $$
 Lorsque K se ferme, le courant à l'instant $t=0$ est nul : $i_2(t=0)=0$.
 A partir de $t=0$, la bobine va chercher à s'opposer au courant qui circule ($i_2$) pendant un certain temps. Elle va se charger et lorsque le courant $i_2$ devient constant, la tension aux bornes de la bobine vaut :
 $$
-v_L=L\frac{di_2}{dt}=0
+\lim_{t \to\infty} v_L(t)=L\frac{di_2}{dt}=0
 $$  
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTY5MDA2MSwyMjUyNjUzNjMsMTE1Mj
+eyJoaXN0b3J5IjpbLTYyMjc2NTg1MiwyMjUyNjUzNjMsMTE1Mj
 M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
 LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
 c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
