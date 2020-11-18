@@ -217,11 +217,15 @@ $$
 $$
 i_2(t)=\frac{E}{r}(1-\exp(-t/\tau) )~~\textrm{avec} ~\tau=\frac{L}{r}
 $$
+On peut calculer la tension aux bornes de la bobine :
+$$
+
+$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MDAzMzM4LDIyNTI2NTM2MywxMTUyMz
+eyJoaXN0b3J5IjpbODU4Njg2Njc3LDIyNTI2NTM2MywxMTUyMz
 UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
 LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
 gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
