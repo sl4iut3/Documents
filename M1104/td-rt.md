@@ -189,13 +189,14 @@ $$
 Pour $i_2$ :
 $$
 E-v_L-ri_2=0 \\
-
+v_L+ri_2=E\\
+L\frac{di_2
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MzkyMTk4LDIyNTI2NTM2MywxMTUyMz
-UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
-LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
-gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
+eyJoaXN0b3J5IjpbLTE2NzA5NzcyNzksMjI1MjY1MzYzLDExNT
+IzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3
+NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNT
+g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
 -->
