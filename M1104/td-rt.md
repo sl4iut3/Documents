@@ -190,13 +190,13 @@ Pour $i_2$ :
 $$
 E-v_L-ri_2=0 \\
 v_L+ri_2=E\\
-L\frac{di_2
+L\frac{di_2}{dt}+ri_2=E
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA5NzcyNzksMjI1MjY1MzYzLDExNT
-IzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3
-NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNT
-g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbMTYyMTQ3NjMzOSwyMjUyNjUzNjMsMTE1Mj
+M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
+LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
+c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
