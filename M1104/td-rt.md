@@ -188,13 +188,14 @@ A.N : i_1=10mA
 $$
 Pour $i_2$ :
 $$
+E-v_L-ri_2=0 \\
 
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTg1NTU0NywyMjUyNjUzNjMsMTE1Mj
-M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
-LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
-c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbNjA1MzkyMTk4LDIyNTI2NTM2MywxMTUyMz
+UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
+LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
+gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
 -->
