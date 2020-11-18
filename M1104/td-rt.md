@@ -256,11 +256,16 @@ i_2(t)=0+\frac{E}{r}\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{R+r}\\
 i_2(t)=\frac{E}{r}\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{R+r}\\
 $$
 
+### Question 2.b
+$$
+U'(t)=Ri_1(t)=-Ri_2(t)\\
+U'(t)=-\frac{R}
+$$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNzMwNjMsLTEyMjc0NjY5MjksMjI1Mj
-Y1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5
-LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMj
-I1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0
-XX0=
+eyJoaXN0b3J5IjpbNzQzMTgwMzU4LC0xMjI3NDY2OTI5LDIyNT
+I2NTM2MywxMTUyMzUyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQx
+OSw3MjM5MjkzNzQsLTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MT
+IyNTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5
+NF19
 -->
