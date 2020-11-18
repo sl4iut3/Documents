@@ -176,10 +176,15 @@ $$
 
 ![graphes obtenus](https://github.com/sl4iut3/Documents/raw/master/M1104/circuitRC-graphes.png)
 
+## Exercice 2
+
+### question 1
+
+$$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MjY1MzYzLDExNTIzNTI5MDksMTU5OD
-g2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEz
-LDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NT
-UwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbNTg3OTc1MjUzLDIyNTI2NTM2MywxMTUyMz
+UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
+LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
+gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
 -->
