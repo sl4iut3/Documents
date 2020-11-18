@@ -220,14 +220,15 @@ $$
 On peut calculer la tension aux bornes de la bobine :
 $$
 v_L=L\frac{di_2}{dt}=\frac{d}{dt}[ \frac{E}{r}-\frac{E}{r}\exp(-t/\tau) ]\\
-v_L=\frac{d}{dt}[ \frac{E}{r}-\frac{E}{r}\exp(-t/\tau) ]\\
+v_L=0+\frac{d}{dt}[ -\frac{E}{r}\exp(-t/\tau) ]\\
+v_L=0+( -\frac{E}{r})(\frac{-1}{\tau}\exp(-t/\tau) ]\\
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzQ1OTUyLDIyNTI2NTM2MywxMTUyMz
-UyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQs
-LTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nz
-gyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
+eyJoaXN0b3J5IjpbMTQyODAwODcwMywyMjUyNjUzNjMsMTE1Mj
+M1MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0
+LC01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1OD
+c4MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
