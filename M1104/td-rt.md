@@ -226,11 +226,16 @@ v_L=0+( -\frac{E}{r})(\frac{-r}{L})\exp(-t/\tau) \\
 v_L=\frac{E}{L}\exp(-t/\tau) \\
 $$
 
+### question 2 : on ouvre l'interrupeteur K
+Nouvelle équation de maille
+$$
 
+$$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc0NjY5MjksMjI1MjY1MzYzLDExNT
-IzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzkyOTM3
-NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OCwxNT
-g3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbLTEyMTM3NjY5ODEsLTEyMjc0NjY5MjksMj
+I1MjY1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0
+NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLT
+gxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDky
+MDk0XX0=
 -->
