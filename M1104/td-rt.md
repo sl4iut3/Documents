@@ -18,7 +18,7 @@ Moteur (électrique, par exemple)
 **Condensateur / Inductance**
 * RT : lorsque le composant se charge ou se décharge à la mise en fonctionnement ou à l'extinction. Formules à utiliser :
 $$
-i_C = C \frac{dV_C}{dt}~~\textrm{et}~~v_L=L\frac{di_L}{dt}
+\colorbox{aqua}{$i_C = C \frac{dV_C}{dt}$}~~\textrm{et}~~v_L=L\frac{di_L}{dt}
 $$
 * RP : lorsque le composant est soumis à un signal sinusoïdal de fréquence stable (**régime harmonique**). Formules à utiliser :
 $$
@@ -272,9 +272,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkzMTg4NTgsLTc3ODAwMTY2NCwtMT
-IyNzQ2NjkyOSwyMjUyNjUzNjMsMTE1MjM1MjkwOSwxNTk4ODYx
-NzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMj
-A4NzA2MjM4NywtODEyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4
-MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjE2MDk4NiwtMjA5OTMxODg1OCwtNz
+c4MDAxNjY0LC0xMjI3NDY2OTI5LDIyNTI2NTM2MywxMTUyMzUy
+OTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOSw3MjM5MjkzNzQsLT
+UzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIyNTE5NzgsMTU4Nzgy
+NDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF19
 -->
