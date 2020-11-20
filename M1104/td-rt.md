@@ -237,7 +237,7 @@ L\frac{di_2}{dt}+(R+r)i_2=0\\
 $$
 Comme d'habitude , la solution de cette équation est : 
 $$
-i_2(t)=A+k\exp(-t/\tau) ~~\textrm{avec} ~\tau=\frac{L}{R+r}
+i_2(t)=A+k\exp(-t/\tau) ~\textrm{avec} ~\tau=\frac{L}{R+r}
 $$
 **conditions initiales (CI)  à t'=0 (instant où K est ouvert):**
 Lorsque K est ouvert, le courant à l'instant $t'=0$  vaut: $i_2(t'=0)=\frac{E}{r}$.
@@ -272,7 +272,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgyMzUwNjQsLTc3ODAwMTY2NCwtMT
+eyJoaXN0b3J5IjpbLTIwOTkzMTg4NTgsLTc3ODAwMTY2NCwtMT
 IyNzQ2NjkyOSwyMjUyNjUzNjMsMTE1MjM1MjkwOSwxNTk4ODYx
 NzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0LC01MzIzNzgyMTMsMj
 A4NzA2MjM4NywtODEyMjUxOTc4LDE1ODc4MjQ4MzcsOTg1NTA4
