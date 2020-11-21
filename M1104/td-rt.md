@@ -94,6 +94,7 @@ $$
 \colorbox{aqua}{$Vc = E(1-\exp(-t/\tau))~\textrm{avec}~\tau=RC$}
 \end{aligned}
 $$
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/chargeDuCondensateurATensionConstante.png)
 Voir le cours de Math pour approfondir les équations différentielles ou encore [ce lien pour ceux qui voudraient plus de détails sur les équations différentielles,](http://www.tsi.lycee-louis-vincent.fr/wp-content/uploads/2013/12/equadiff.pdf) 
 
 ### Figure 1 : ouverture de l'interrupteur K à l'instant t=0
@@ -272,9 +273,10 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU0NjU0OTYsLTIwOTkzMTg4NTgsLT
-c3ODAwMTY2NCwtMTIyNzQ2NjkyOSwyMjUyNjUzNjMsMTE1MjM1
-MjkwOSwxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0LC
-01MzIzNzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1ODc4
-MjQ4MzcsOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbMTM2MjgxOTk0OCwtMTIxNTQ2NTQ5NiwtMj
+A5OTMxODg1OCwtNzc4MDAxNjY0LC0xMjI3NDY2OTI5LDIyNTI2
+NTM2MywxMTUyMzUyOTA5LDE1OTg4NjE3NzAsMTI2NTk2NDQxOS
+w3MjM5MjkzNzQsLTUzMjM3ODIxMywyMDg3MDYyMzg3LC04MTIy
+NTE5NzgsMTU4NzgyNDgzNyw5ODU1MDgxNDMsMTEzNzA5MjA5NF
+19
 -->
