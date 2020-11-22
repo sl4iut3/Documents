@@ -172,6 +172,8 @@ $$
 \colorbox{aqua}{ $Vc(t)=0+Eth\exp(-t/\tau)=Eth\exp(-t/\tau)) $}
 $$
 
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/DechargeC.png)
+
 
 **Résultats obtenus par simulation**
 ![circuit RC simulé vec LTSpice](https://github.com/sl4iut3/Documents/raw/master/M1104/circuitRC.png)
@@ -274,10 +276,10 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjQ5NDY2MSwxMzYyODE5OTQ4LC0xMj
-E1NDY1NDk2LC0yMDk5MzE4ODU4LC03NzgwMDE2NjQsLTEyMjc0
-NjY5MjksMjI1MjY1MzYzLDExNTIzNTI5MDksMTU5ODg2MTc3MC
-wxMjY1OTY0NDE5LDcyMzkyOTM3NCwtNTMyMzc4MjEzLDIwODcw
-NjIzODcsLTgxMjI1MTk3OCwxNTg3ODI0ODM3LDk4NTUwODE0My
-wxMTM3MDkyMDk0XX0=
+eyJoaXN0b3J5IjpbLTkyMDU5ODU5MSwyMTQ2NDk0NjYxLDEzNj
+I4MTk5NDgsLTEyMTU0NjU0OTYsLTIwOTkzMTg4NTgsLTc3ODAw
+MTY2NCwtMTIyNzQ2NjkyOSwyMjUyNjUzNjMsMTE1MjM1MjkwOS
+wxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0LC01MzIz
+NzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1ODc4MjQ4Mz
+csOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
 -->
