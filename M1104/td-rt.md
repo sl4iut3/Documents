@@ -229,7 +229,7 @@ v_L=0+( -\frac{E}{r})(\frac{-1}{\tau})\exp(-t/\tau) \\
 v_L=0+( -\frac{E}{r})(\frac{-r}{L})\exp(-t/\tau) \\
 v_L=\frac{E}{L}\exp(-t/\tau) \\
 $$
-
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ChargeL.png)
 ### question 2 : on ouvre l'interrupteur K
 Nouvelle équation de maille avec $i_1(t)=-i_2(t)$
 $$
@@ -276,10 +276,10 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDU5ODU5MSwyMTQ2NDk0NjYxLDEzNj
-I4MTk5NDgsLTEyMTU0NjU0OTYsLTIwOTkzMTg4NTgsLTc3ODAw
-MTY2NCwtMTIyNzQ2NjkyOSwyMjUyNjUzNjMsMTE1MjM1MjkwOS
-wxNTk4ODYxNzcwLDEyNjU5NjQ0MTksNzIzOTI5Mzc0LC01MzIz
-NzgyMTMsMjA4NzA2MjM4NywtODEyMjUxOTc4LDE1ODc4MjQ4Mz
-csOTg1NTA4MTQzLDExMzcwOTIwOTRdfQ==
+eyJoaXN0b3J5IjpbNzkxODg4MTM5LC05MjA1OTg1OTEsMjE0Nj
+Q5NDY2MSwxMzYyODE5OTQ4LC0xMjE1NDY1NDk2LC0yMDk5MzE4
+ODU4LC03NzgwMDE2NjQsLTEyMjc0NjY5MjksMjI1MjY1MzYzLD
+ExNTIzNTI5MDksMTU5ODg2MTc3MCwxMjY1OTY0NDE5LDcyMzky
+OTM3NCwtNTMyMzc4MjEzLDIwODcwNjIzODcsLTgxMjI1MTk3OC
+wxNTg3ODI0ODM3LDk4NTUwODE0MywxMTM3MDkyMDk0XX0=
 -->
