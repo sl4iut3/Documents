@@ -53,10 +53,15 @@ La courbe réelle se confond avec les asymptotes pour des faibles valeurs et des
 
 ### Simulation LTSpice et tracé du diagramme de Bode
 
+Le schéma se réalise de la manière classique :
+* une résistance (CTRL+R pour tourner la résistance à l'horizontale)
+* un condensateur
+* un générateur de tension (dans Library, choisir un 
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzAzNzY5MywxODU4MTAyNTNdfQ==
+eyJoaXN0b3J5IjpbMTcxMzEzNDY2NCwxOTc3MDM3NjkzLDE4NT
+gxMDI1M119
 -->
