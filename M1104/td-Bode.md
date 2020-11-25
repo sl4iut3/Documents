@@ -32,7 +32,8 @@ $$
 &= - Arctan(RC\omega) \\
 \end{aligned} 
 $$
-**Remarque** : A la fréquence de coupure $f_c$, le gain vaut $|H(j\omega_c)|=1/\sqrt(2)$$ et la phase $\phi(\omega_c)=-$
+**Remarque** : A la fréquence de coupure $f_c$, le gain vaut $|H(j\omega_c)|=1/\sqrt(2)$$ et la phase $\phi(\omega_c)=-\pi/4$.
+
 ### Déterminer le type de filtre réalisé
 $$
 \begin{aligned}
@@ -56,5 +57,5 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM0NTkxMDVdfQ==
+eyJoaXN0b3J5IjpbMTg1ODEwMjUzXX0=
 -->
