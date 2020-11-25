@@ -32,6 +32,7 @@ $$
 &= - Arctan(RC\omega) \\
 \end{aligned} 
 $$
+**Remarque** : A la féquence de coupure $f_c$, le gain vaut 
 ### Déterminer le type de filtre réalisé
 $$
 \begin{aligned}
@@ -55,5 +56,5 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE4MzIzODldfQ==
+eyJoaXN0b3J5IjpbLTE3OTk3NjQ1NDFdfQ==
 -->
