@@ -58,12 +58,12 @@ Le schéma se réalise de la manière classique :
 * un condensateur
 * un générateur de tension (dans *Library*, choisir un *Voltage*).
 
-on peut positionner la valeur de R à $1k\Omega$ et C à $1
+on peut positionner la valeur de **R** à $1k\Omega$ et **C** à $1\mu F$. Ceci nous conduit à une fréquence de coupure $f_c$ égale environ à 159Hz
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NTk1NjAzLDE5NzcwMzc2OTMsMTg1OD
+eyJoaXN0b3J5IjpbNjU4NTY1MzkwLDE5NzcwMzc2OTMsMTg1OD
 EwMjUzXX0=
 -->
