@@ -49,7 +49,7 @@ Le tracé du module est constitué de deux asymptotes :
 * une asymptote de pente $-20dB/décade$ de $f_c$ jusqu'à l'infini.
 
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/bodeRC.png)
-La courbe réelle se confond avec les asymptotes pour des faibles valeurs et d
+La courbe réelle se confond avec les asymptotes pour des faibles valeurs et des fortes valeurs de fréquence et se situe légèrement en dessous de l'asymptote aux alentours de la fréquence de coupure (voir la simulation dans le paragraphe suivant)
 
 ### Simulation LTSpice et tracé du diagramme de Bode
 
@@ -58,5 +58,5 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNzY3NDgsMTg1ODEwMjUzXX0=
+eyJoaXN0b3J5IjpbMTk3NzAzNzY5MywxODU4MTAyNTNdfQ==
 -->
