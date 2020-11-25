@@ -73,8 +73,8 @@ Il ne reste plus qu'à demander une simulation de type **AC Analysis** réglé d
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulationBode.jpg)
 
 La simulation est lancée en appuyant sur le bouton **Ok** et il faut demander un tracé (bouton de droite sur la zone de tracé, *Add Trace*) et demander le tracé de la sortie sur l'entrée.
-
-
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulationBode-addtrace.jpg)
+Ce qui nous donne :
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulation-tout.jpg)
 
 TODO
@@ -82,7 +82,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1ODg1MTQ3LDEwODIzMjEwMjEsLTEwOT
-UzNDIxMTcsLTQ4Mzg1NzI0NCwtNzg4OTEyNjIzLDE5NzcwMzc2
-OTMsMTg1ODEwMjUzXX0=
+eyJoaXN0b3J5IjpbLTIwNzUzMTg3MDgsMTA4MjMyMTAyMSwtMT
+A5NTM0MjExNywtNDgzODU3MjQ0LC03ODg5MTI2MjMsMTk3NzAz
+NzY5MywxODU4MTAyNTNdfQ==
 -->
