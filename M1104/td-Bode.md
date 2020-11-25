@@ -59,12 +59,13 @@ Le schéma se réalise de la manière classique :
 * un générateur de tension (dans *Library*, choisir un *Voltage*).
 
 On peut positionner la valeur de **R** à $1k\Omega$ et **C** à $1\mu F$. Ceci nous conduit à une fréquence de coupure $f_c$ égale environ à $159Hz$.
-Le générateur est réglé à une valeur **AC Amplitude** égale à 1
+Le générateur est réglé à une valeur **AC Amplitude** égale à 1.
+
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMDE3NzYzLDE5NzcwMzc2OTMsMTg1OD
-EwMjUzXX0=
+eyJoaXN0b3J5IjpbLTc4ODkxMjYyMywxOTc3MDM3NjkzLDE4NT
+gxMDI1M119
 -->
