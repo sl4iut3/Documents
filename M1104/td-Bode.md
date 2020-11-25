@@ -64,12 +64,12 @@ Le générateur est réglé à une valeur **AC Amplitude** égale à 1 comme mon
 
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-bodeRC.jpg)
 
-Il ne reste plus qu'à demander une simulation de type **AC Analysis** avec en type de *sweep* (varaition de fréquence) 
+Il ne reste plus qu'à demander une simulation de type **AC Analysis** avec en type de *sweep* (variation de fréquence) : **decade**, 
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NDg5NDQ1LC00ODM4NTcyNDQsLTc4OD
-kxMjYyMywxOTc3MDM3NjkzLDE4NTgxMDI1M119
+eyJoaXN0b3J5IjpbLTEwOTUzNDIxMTcsLTQ4Mzg1NzI0NCwtNz
+g4OTEyNjIzLDE5NzcwMzc2OTMsMTg1ODEwMjUzXX0=
 -->
