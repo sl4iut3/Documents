@@ -68,13 +68,17 @@ Il ne reste plus qu'à demander une simulation de type **AC Analysis** réglé d
 * type de *sweep* (variation de fréquence) : **decade**
 * nombre de points par décade : 50 par exemple
 * fréquence de départ : 1Hz
-* fréquence finale : 100kHz par exemple
+* fréquence finale : 100kHz par exemple.
+
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulationBode.jpg)
+
+
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE4MDQwNTUsLTEwOTUzNDIxMTcsLT
-Q4Mzg1NzI0NCwtNzg4OTEyNjIzLDE5NzcwMzc2OTMsMTg1ODEw
-MjUzXX0=
+eyJoaXN0b3J5IjpbMTA4MjMyMTAyMSwtMTA5NTM0MjExNywtND
+gzODU3MjQ0LC03ODg5MTI2MjMsMTk3NzAzNzY5MywxODU4MTAy
+NTNdfQ==
 -->
