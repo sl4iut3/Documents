@@ -59,15 +59,16 @@ Le schéma se réalise de la manière classique :
 * un générateur de tension (dans *Library*, choisir un *Voltage*).
 
 On peut positionner la valeur de **R** à $1k\Omega$ et **C** à $1\mu F$. Ceci nous conduit à une fréquence de coupure $f_c$ égale environ à $159Hz$.
-Le générateur est réglé à une valeur **AC Amplitude** égale à 1.
+Le générateur est réglé à une valeur **AC Amplitude** égale à 1 comme montré ci-dessous :
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-generateurAC.jpg)
 
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-bodeRC.jpg)
 
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzg1NzI0NCwtNzg4OTEyNjIzLDE5Nz
-cwMzc2OTMsMTg1ODEwMjUzXX0=
+eyJoaXN0b3J5IjpbLTIwMjI2NTc3MzksLTQ4Mzg1NzI0NCwtNz
+g4OTEyNjIzLDE5NzcwMzc2OTMsMTg1ODEwMjUzXX0=
 -->
