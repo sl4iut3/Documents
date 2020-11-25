@@ -1,5 +1,5 @@
 ﻿# TD Diagramme de Bode
-
+﻿
 ## Enoncé de TD
 Soit le circuit RC suivant :
 
@@ -83,8 +83,8 @@ D'où le diagramme de Bode suivant :
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc5ODY2ODMsLTYyMzg2MDAwNywtMj
-A3NTMxODcwOCwxMDgyMzIxMDIxLC0xMDk1MzQyMTE3LC00ODM4
-NTcyNDQsLTc4ODkxMjYyMywxOTc3MDM3NjkzLDE4NTgxMDI1M1
-19
+eyJoaXN0b3J5IjpbLTIxMzk3ODY2NiwtMTkxNzk4NjY4MywtNj
+IzODYwMDA3LC0yMDc1MzE4NzA4LDEwODIzMjEwMjEsLTEwOTUz
+NDIxMTcsLTQ4Mzg1NzI0NCwtNzg4OTEyNjIzLDE5NzcwMzc2OT
+MsMTg1ODEwMjUzXX0=
 -->
