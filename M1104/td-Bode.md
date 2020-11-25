@@ -78,12 +78,12 @@ Ce qui nous donne :
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulation-tout.jpg)
 D'où le diagramme de Bode suivant :
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-bode.jpg)
-TODO
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMzAwMzcxLC0yMDc1MzE4NzA4LDEwOD
-IzMjEwMjEsLTEwOTUzNDIxMTcsLTQ4Mzg1NzI0NCwtNzg4OTEy
-NjIzLDE5NzcwMzc2OTMsMTg1ODEwMjUzXX0=
+eyJoaXN0b3J5IjpbLTYyMzg2MDAwNywtMjA3NTMxODcwOCwxMD
+gyMzIxMDIxLC0xMDk1MzQyMTE3LC00ODM4NTcyNDQsLTc4ODkx
+MjYyMywxOTc3MDM3NjkzLDE4NTgxMDI1M119
 -->
