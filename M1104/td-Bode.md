@@ -23,7 +23,7 @@ $$
 $$
 \begin{aligned}
 \omega_c &= \frac{1}{RC}\\
-f_c &= \frac{1}{2 \pi RC}
+~ \textrm{et} f_c &= \frac{1}{2 \pi RC}
 \end{aligned}
 $$
 ### Calcul de l'expression du module et de la phase de la fonction de transfert $H(j\omega)$
@@ -57,3 +57,6 @@ TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQzODg2NTMwN119
+-->
