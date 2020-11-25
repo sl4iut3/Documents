@@ -76,13 +76,14 @@ La simulation est lancée en appuyant sur le bouton **Ok** et il faut demander u
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulationBode-addtrace.jpg)
 Ce qui nous donne :
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulation-tout.jpg)
-
+D'où le diagramme de Bode suivant :
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-bode.jpg)
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUzMTg3MDgsMTA4MjMyMTAyMSwtMT
-A5NTM0MjExNywtNDgzODU3MjQ0LC03ODg5MTI2MjMsMTk3NzAz
-NzY5MywxODU4MTAyNTNdfQ==
+eyJoaXN0b3J5IjpbNDYyMzAwMzcxLC0yMDc1MzE4NzA4LDEwOD
+IzMjEwMjEsLTEwOTUzNDIxMTcsLTQ4Mzg1NzI0NCwtNzg4OTEy
+NjIzLDE5NzcwMzc2OTMsMTg1ODEwMjUzXX0=
 -->
