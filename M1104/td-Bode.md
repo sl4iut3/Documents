@@ -56,12 +56,14 @@ La courbe réelle se confond avec les asymptotes pour des faibles valeurs et des
 Le schéma se réalise de la manière classique :
 * une résistance (CTRL+R pour tourner la résistance à l'horizontale)
 * un condensateur
-* un générateur de tension (dans Library, choisir un 
+* un générateur de tension (dans *Library*, choisir un *Voltage*).
+
+on peut positionner la valeur de R à $1k\Omega$ et C à $1
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzEzNDY2NCwxOTc3MDM3NjkzLDE4NT
-gxMDI1M119
+eyJoaXN0b3J5IjpbOTc3NTk1NjAzLDE5NzcwMzc2OTMsMTg1OD
+EwMjUzXX0=
 -->
