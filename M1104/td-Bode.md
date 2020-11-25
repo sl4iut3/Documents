@@ -44,11 +44,12 @@ $$
 Il s'agit donc d'un filtre **passe-bas**.
 
 ### Tracer l'allure théorique du diagramme de Bode
-Le tracé est constitué de deux asymptotes :
+Le tracé du module est constitué de deux asymptotes :
 * une asymptote horizontale de $0$ jusque $f_c$
 * une asymptote de pente $-20dB/décade$ de $f_c$ jusqu'à l'infini.
 
-graphe todo
+![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/bodeRC.png)
+La courbe réelle se confond avec les asymptotes pour des faibles valeurs et d
 
 ### Simulation LTSpice et tracé du diagramme de Bode
 
@@ -57,5 +58,5 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODEwMjUzXX0=
+eyJoaXN0b3J5IjpbNzAyNzY3NDgsMTg1ODEwMjUzXX0=
 -->
