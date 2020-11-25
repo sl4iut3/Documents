@@ -72,13 +72,13 @@ Il ne reste plus qu'à demander une simulation de type **AC Analysis** réglé d
 
 ![enter image description here](https://github.com/sl4iut3/Documents/raw/master/M1104/ltspice-simulationBode.jpg)
 
-
+La simulation est lancée en appuyant sur le bouton **Ok** et il faut demander un tracé (bouton de droite sur la zone de tracé, *Add Trace*))lancée 
 TODO
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjMyMTAyMSwtMTA5NTM0MjExNywtND
-gzODU3MjQ0LC03ODg5MTI2MjMsMTk3NzAzNzY5MywxODU4MTAy
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTkwMTQzMDUwMCwxMDgyMzIxMDIxLC0xMD
+k1MzQyMTE3LC00ODM4NTcyNDQsLTc4ODkxMjYyMywxOTc3MDM3
+NjkzLDE4NTgxMDI1M119
 -->
