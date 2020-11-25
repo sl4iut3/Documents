@@ -21,10 +21,7 @@ H(j \omega ) &= \frac{v_s}{v_e}=\frac{1/jc\omega}{R+1/jC\omega}\\
 $$
 ### Calcul de la pulsation de coupure $\omega_c$ ainsi que la fréquence de coupure $f_c$
 $$
-\begin{aligned}
-\omega_c &= \frac{1}{RC}\\
-~ \textrm{et} f_c &= \frac{1}{2 \pi RC}
-\end{aligned}
+\omega_c = \frac{1}{RC} ~ \textrm{ et donc, } f_c = \frac{1}{2 \pi RC}
 $$
 ### Calcul de l'expression du module et de la phase de la fonction de transfert $H(j\omega)$
 $$
@@ -58,5 +55,5 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODg2NTMwN119
+eyJoaXN0b3J5IjpbLTE5OTE4MzIzODldfQ==
 -->
