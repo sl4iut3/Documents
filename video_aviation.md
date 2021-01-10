@@ -39,14 +39,15 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Cela déjà un certain nombre de fois : le premier incident recensé en 1982 sur vol d'Air Japan se solda par 24 victimes, puis on en compte encore 3 graves avant le crash du GermanWings en 2015. Ce dernier montre que la sécurisation extrême du poste de pilotage a empêché le commandant de bord de revenir dans le cockpit pour reprendre le contrôle de l'appareil. Ce qui a permis au copilote de précipiter délibérément l'avion contre une montagne.
 > Ce crash est le dernier en date et a eu retentissement important car il s'est déroulé dans les alpes françaises.
 ## risques externes
-> En periode de conflit comme par exemple pendant la guerre froide,  
+> En periode de conflit comme par exemple pendant la guerre froide, une simple erreur de navigation peut conduire à une destruction d'un avion de ligne. 
+> C'est ce qui est arrivé au KL007, vol reliant Anchorage à Séoul en 1988. L'appareil a été abattu par la chasse   
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk4NTQ2MzEsMTQzNjk4NTIyNSwtMj
-A3OTQ0MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMy
-MzEsNDYyMzA2MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOT
-Y5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYw
-OTA3OTddfQ==
+eyJoaXN0b3J5IjpbLTYyNjAxODUzNiwxNDM2OTg1MjI1LC0yMD
+c5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIz
+MSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Nj
+k0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5
+MDc5N119
 -->
