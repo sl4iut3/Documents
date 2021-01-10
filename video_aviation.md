@@ -45,15 +45,16 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Plus récemment, un vol ukrainien au départ de Téhéran a été détruit par erreur par la défense aérienne iranienne en Janvier 2020.
 ## Nouveaux risques
 > Dans les nouveaux risques, on peut compter les drones même si pour l'instant aucun accident n'a été recensé. 
-> Les premiers incidents classés par le BEA comme incident grave remontent à 2016 lorsque deux avions d'Air France sont obligés d'effectuer des maneuvre d'évitement lors de l'approche de Roissy. Heureusement aucune collision ne s'est produite. On peut toutefois signaler le cas d'un drone qui a décollé de Belgique et dont le pilote a pet qui s'est crashé au bout de 200kmLe  
+> Les premiers incidents classés par le BEA comme incident grave remontent à 2016 lorsque deux avions d'Air France sont obligés d'effectuer des maneuvre d'évitement lors de l'approche de Roissy. Heureusement aucune collision ne s'est produite. On peut toutefois signaler le cas d'un drone qui a décollé de Belgique et dont le pilote a perdu le contrôle. Il a parcouru 200km avant de se crasher dans un champs en France. Tout le long de son vol, il a été surveillé par des avions de chasse.
+> Des études de colliau bout de Le  
 > 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI5ODM0MzQsLTIzNDYzMzg3NSwxND
-M2OTg1MjI1LC0yMDc5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkx
-NjExLDMyNjc2MzIzMSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMj
-A2ODM0NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4
-MDg0NTAsLTM5NjA5MDc5N119
+eyJoaXN0b3J5IjpbNDc3OTE2MzM2LC0yMzQ2MzM4NzUsMTQzNj
+k4NTIyNSwtMjA3OTQ0MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYx
+MSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01NzcwMDY2OTYsLTIwNj
+gzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4
+NDUwLC0zOTYwOTA3OTddfQ==
 -->
