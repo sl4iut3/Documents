@@ -21,9 +21,9 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 > Parlons ensuite des attentats.
 
-> Les exemples les plus graves sont principalement dû à l'embarquement d'une bombe dans les bagages des passagers. La destruction de l'avion est alors réalisé en plein vol avec pour conséquence un grand nombre de victimes dans l'avion mais aussi au sol. On peut citer par exemple l'attentat du 747 de la Panam en 1988 où une bombe avait été placée dans une valise pour un passager qui n'a finalement embarqué. L'attentat a fait 270 morts, dont 11 victimes dans la petite ville de Lockerby en Ecosse, sur laquelle l'avion s'est écrasé. L'enquête a montré par la suite l'implication de la Lybie de Khadafi dans cet attentat.
+> Les exemples les plus graves sont principalement dû à l'embarquement d'une bombe dans les bagages des passagers. La destruction de l'avion est alors réalisé en plein vol avec pour conséquence un grand nombre de victimes dans l'avion mais aussi au sol. On peut citer par exemple l'attentat du Boeing 747 de la Panam en 1988 où une bombe avait été placée dans une valise pour un passager qui n'a finalement embarqué. L'attentat a fait 270 morts, dont 11 victimes dans la petite ville de Lockerby en Ecosse, sur laquelle l'avion s'est écrasé. L'enquête a montré par la suite l'implication de la Lybie de Khadafi dans cet attentat.
 
-> Le dernier attentat à la bombe à eu lieu 
+> Le dernier attentat à la bombe à eu lieu en 2016 lorsqu'un Airbus A321 de la compagnie russe Metrojet est 
 
 > Les attentats les plus meurtriers et aussi les plus récents sont évidemment ceux du 11 septembre 2001 où quatre avions sont détournés en quasi-simultané. Les deux premiers avions s'écrasent dans les deux tours du World Trade Center. Le troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une action désespérée des passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison Blanche. Ces quatre attentats causent la mort de près de 3000 personnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
 ### amélioration de la sécurité
@@ -32,8 +32,8 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjM0NjEzMiwtOTkzMzQ5Mzg4LDMwMD
-c5MTYxMSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01NzcwMDY2OTYs
-LTIwNjgzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOT
-U3ODA4NDUwLC0zOTYwOTA3OTddfQ==
+eyJoaXN0b3J5IjpbLTk0ODAzMTA0LC05OTMzNDkzODgsMzAwNz
+kxNjExLDMyNjc2MzIzMSw0NjIzMDYyNTQsLTU3NzAwNjY5Niwt
+MjA2ODM0NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NT
+c4MDg0NTAsLTM5NjA5MDc5N119
 -->
