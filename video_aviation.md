@@ -23,10 +23,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 > Les attentats les plus meurtriers et aussi les plus récents sont évidemment ceux du 11 septembre 2001 où quatre avions sont détournés en quasi-simultané. Les deux premiers avions s'écrasent dans les deux tours du World Trade Center. Le troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une action désespérée des passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison Blanche. Ces quatre attentats causent la mort de près de 3000 personnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
 ### amélioration de la sécurité
->Pour se prémunir de ces attentas, des mesures graduelles ont été lises en place : les bagages d'un passager n'ayant pas embarqué dans l'appareil sont déchargés suite à l'attentat de Lockerby, les bagages et les passagers sont de plus en plus fouillés et inspectés : rayons X, fouille corporelle, scanner corporel. De plus,les objets que l'on peut embarquer dans un avion sont maintenant strictement limités de façon à éviter tous les objets métalliques comme par exemple les cutter et des couteaux et éventuellement les objets dans les cachets des explosifs comme par exemple le dentifrice ou une bouteille le liquide.
+>Pour se prémunir de ces attentas, des mesures graduelles ont été lises en place : les bagages d'un passager n'ayant pas embarqué dans l'appareil sont déchargés suite à l'attentat de Lockerby, les bagages et les passagers sont de plus en plus fouillés et inspectés : rayons X, fouille corporelle, scanner corporel. De plus,2 + les objets que l'on peut embmarquer dans un avion sont maintenant strictement limités de façon à éviter tous les objets métalliques comme par exemple les cutter et des couteaux et éventuellement les objets dans les cachets des explosifs comme par exemple le dentifrice ou une bouteille le liquide.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAxMjE1MzIsLTE5NTc4MDg0NTAsLT
-M5NjA5MDc5N119
+eyJoaXN0b3J5IjpbLTEyNjIzNjkyMTIsLTEzNjAxMjE1MzIsLT
+E5NTc4MDg0NTAsLTM5NjA5MDc5N119
 -->
