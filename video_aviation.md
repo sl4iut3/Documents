@@ -31,15 +31,16 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ### amélioration de la sécurité
 >Pour se prémunir de ces attentas, des mesures graduelles ont été mises en place : les bagages d'un passager n'ayant pas embarqué dans l'appareil sont déchargés suite à l'attentat de Lockerbie, les bagages et les passagers sont de plus en plus fouillés et inspectés : rayons X, fouille corporelle, scanner corporel. 
 >De plus, les objets que l'on peut embarquer dans un avion sont maintenant strictement limités de façon à éviter tous les objets métalliques comme par exemple les cutter et des couteaux et les bouteilles de liquide et les tubes de dentifrice par exemple qui pourrait contenir des  explosifs. 
-> Le scanner corporel permet d'effectuer une fouille sans contact des personnes à la recherche d'objets interdits par exemple métallique.  
-> Un autre point important a été de sécuriser l'accès au cockpit. Il faut savoir que jusqu'aux attentats de 2001 la porte du cockpit n'était pas verrouillable et même parfois laissée ouverte pendant le vol. Depuis, cette porte est renforcée et est verrouillée de l'intérieur. L'ouverture est commandée à la fois par un digicode et par un contrôle vidéo.
+> Le scanner corporel permet d'effectuer une fouille sans contact des personnes à la recherche d'objets interdits par exemple métallique.  Ici, on voit une démonstration du scanner installé à Roissy.
+>  Le derniet point important a été de sécuriser l'accès au cockpit. Il faut savoir que jusqu'aux attentats de 2001 la porte du cockpit n'était pas verrouillable et même parfois laissée ouverte pendant le vol. Depuis, cette porte est renforcée et est verrouillée de l'intérieur. 
+>  L'ouverture est commandée à la fois par un digicode et par un contrôle vidéo.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk4NjM5NjEsMTQzNjk4NTIyNSwtMj
-A3OTQ0MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMy
-MzEsNDYyMzA2MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOT
-Y5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYw
-OTA3OTddfQ==
+eyJoaXN0b3J5IjpbLTc1MzYwODgxNCwxNDM2OTg1MjI1LC0yMD
+c5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIz
+MSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Nj
+k0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5
+MDc5N119
 -->
