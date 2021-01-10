@@ -41,13 +41,14 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ## risques externes
 > En période de conflit comme par exemple pendant la guerre froide, une simple erreur de navigation peut conduire à une destruction d'un avion de ligne. 
 > C'est ce qui est arrivé au KL007, vol reliant Anchorage à Séoul en 1983. L'appareil a été abattu par la chasse soviétique au dessus de la presqu'ile de Sakhaline qui était à l'époque une base militaire soviétique interdite de survol. La cause probable serait une  erreur de programmation de la centrale inertielle pilotant l'avion. 
-> Même sans erreur de navigation, le survol d'une zône en guerre est problématique. En 2014, le vol MH17 a été abattu et totalement détruit  par un missile tiré par des séparatistes pro-russes au dessus de l'Ukraine.
+> Même sans erreur de navigation, le survol d'une zône en guerre est problématique. Par exmple, en 2014, le vol MH17 a été abattu et totalement détruit  par un missile tiré par des séparatistes pro-russes au dessus de l'Ukraine. plus récemment, un vol ukrainien au départ de Téhéran a été détruit par erreur par la défense aérienne iranienne en Janvier 2020.
+> 
 > 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDAyMDc2NywxNDM2OTg1MjI1LC0yMD
+eyJoaXN0b3J5IjpbMTMyODA2MjQzOSwxNDM2OTg1MjI1LC0yMD
 c5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIz
 MSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Nj
 k0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5
