@@ -51,19 +51,21 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ### Lasers
 >  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage. L'intention malveillante est claire même si les motivations le sont moins. L'incident le plus grave pour l'instant constaté s'est produit en 2018 lorsqu'un vol British Airways au départ a été contraint de faire demi-tour  car le pilote ne se considérait plus en capacité de piloter l'appareil en toute sécurité. 
 ## conclusion
-> On voit que la sécurité en aviation a réussi à trouver une parade à tous les risques rencontrés et est finalement le moyen de transport le plus sûr avec un taux d'accident plusieurs dizaine de fois inférieur à celui de la voiture. Ceci la crise du Covid a fortement impacté le trafic aérien depuis mars 2020 où le trafic aérien a chuté de 90%. Même en septembre 2020, il était remonté à 60% de l'activité constatée en 2019. 
+> On voit que la sécurité en aviation a réussi à trouver une parade à tous les risques rencontrés et est finalement le moyen de transport le plus sûr avec un taux d'accident plusieurs dizaine de fois inférieur à celui de la voiture. La sé
+> Ceci étant, la crise du Covid a fortement impacté le trafic aérien depuis mars 2020 où le trafic aérien a chuté de 90%. Même en septembre 2020, il était remonté à 60% de l'activité constatée en 2019. Un grand nombre d'avions ont été placés sur des parkings dans l'attente d'un redémarrage du trafic et bien sûr la production d'avion est elle aussi fortement impactée. Par exemple, Airbus prévoit 15000 suppressions de postes dont 5000 en France. 
+> 
 ### Covid
-> La crise sanitaire du Covid en 2020 a provoqué un ralentissement très important( voire quasi-total) du trafic aérien : par exemple, l'aéroport a été totalement fermé pendant plusieurs semaines. D'après IATA, le trafic aérien a chuté de 90% en mars 2020 et même au moins de Septembre est resté aux environs de 60% par rapport à l'année précédente : d'environ 110000 vols par jour en 2019, on descend en mars 2020 à 30000 et on remonte en septembre vers 70000.  Un grand nombre d'avions ont été placés sur des parkings dans l'attente d'un redémarrage du trafic et bien sûr la production d'avion est elle aussi fortement impactée. Par exemple, Airbus prévoit 15000 suppressions de postes dont 5000 en France.
+> La crise sanitaire du Covid en 2020 a provoqué un ralentissement très important( voire quasi-total) du trafic aérien : par exemple, l'aéroport a été totalement fermé pendant plusieurs semaines. D'après IATA, le trafic aérien a chuté de 90% en mars 2020 et même au moins de Septembre est resté aux environs de 60% par rapport à l'année précédente : d'environ 110000 vols par jour en 2019, on descend en mars 2020 à 30000 et on remonte en septembre vers 70000.  
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTM1OTQ2NCwtOTU1Mzc4MzQxLC04Mj
-c4MTE5NzgsLTIzNDYzMzg3NSwxNDM2OTg1MjI1LC0yMDc5NDQx
-MTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIzMSw0Nj
-IzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Njk0Mzcy
-NzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5MDc5N1
-19
+eyJoaXN0b3J5IjpbNjE1NTUxMTEsLTk1NTM3ODM0MSwtODI3OD
+ExOTc4LC0yMzQ2MzM4NzUsMTQzNjk4NTIyNSwtMjA3OTQ0MTEy
+MywtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMyMzEsNDYyMz
+A2MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOTY5NDM3Mjcw
+LC0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYwOTA3OTddfQ
+==
 -->
