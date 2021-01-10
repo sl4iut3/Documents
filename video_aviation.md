@@ -52,15 +52,16 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 >  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage. L'intention malveillante est claire même si les motivations le sont moins. L'incident le plus grave pour l'instant constaté s'est produit en 2018 lorsqu'un vol British Airways au départ a été contraint de faire demi-tour  car le pilote ne se considérait plus en capacité de piloter l'appareil en toute sécurité. 
 ### Covid
 > La crise sanitaire du Covid en 2020 a provoqué un ralentissement très important( voire quasi-total) du trafic aérien : par exemple, l'aéroport a été totalement fermé pendant plusieurs semaines. D'après IATA, le trafic aérien a chuté de 90% en mars 2020 et même au moins de Septembre est resté aux environs de 60% par rapport à l'année précédente : d'environ 110000 vols par jour en 2019, on descend en mars 2020 à 30000 et on remonte en septembre vers 70000.  Un grand nombre d'avions ont été placés sur des parkings dans l'attente d'un redémarrage du trafic et bien sûr la production d'avion est elle aussi fortement impactée. Par exemple, Airbus prévoit 15000 suppressions de postes dont 5000 en France.
-> ## conclusion
-> On voit que la sécurité en aviation a réussi à trouver une parade à tous les risques rencontrés et est fait le moyen de transport le plus sûr avec un taux 
+## conclusion
+> On voit que la sécurité en aviation a réussi à trouver une parade à tous les risques rencontrés et est fait le moyen de transport le plus sûr avec un taux d'accident plusieurs dizaine de fois inférieur à celui de la voiture. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTM3ODM0MSwtODI3ODExOTc4LC0yMz
-Q2MzM4NzUsMTQzNjk4NTIyNSwtMjA3OTQ0MTEyMywtOTkzMzQ5
-Mzg4LDMwMDc5MTYxMSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01Nz
-cwMDY2OTYsLTIwNjgzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5
-MjEyLC0xOTU3ODA4NDUwLC0zOTYwOTA3OTddfQ==
+eyJoaXN0b3J5IjpbMTgyOTQyOTk0NiwtOTU1Mzc4MzQxLC04Mj
+c4MTE5NzgsLTIzNDYzMzg3NSwxNDM2OTg1MjI1LC0yMDc5NDQx
+MTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIzMSw0Nj
+IzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Njk0Mzcy
+NzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5MDc5N1
+19
 -->
