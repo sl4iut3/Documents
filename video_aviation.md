@@ -51,14 +51,14 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ### Lasers
 >  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage. L'intention malveillante est claire même si les motivations le sont moins. L'incident le plus grave pour l'instant constaté s'est produit en 2018 lorsqu'un vol British Airways au départ a été contraint de faire demi-tour  car le pilote ne se considérait plus en capacité de piloter l'appareil en toute sécurité. 
 ### Covid
-
+> La crise sanitaire du Covid en 2020 a provoqué un ralentissement très important( voire total
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDI1MjE4LC0yMzQ2MzM4NzUsMTQzNj
-k4NTIyNSwtMjA3OTQ0MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYx
-MSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01NzcwMDY2OTYsLTIwNj
-gzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4
-NDUwLC0zOTYwOTA3OTddfQ==
+eyJoaXN0b3J5IjpbLTc3Mjc2ODk3OSwtMjM0NjMzODc1LDE0Mz
+Y5ODUyMjUsLTIwNzk0NDExMjMsLTk5MzM0OTM4OCwzMDA3OTE2
+MTEsMzI2NzYzMjMxLDQ2MjMwNjI1NCwtNTc3MDA2Njk2LC0yMD
+Y4MzQ2MTcxLDk2OTQzNzI3MCwtMTI2MjM2OTIxMiwtMTk1Nzgw
+ODQ1MCwtMzk2MDkwNzk3XX0=
 -->
