@@ -51,7 +51,7 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ### Lasers
 >  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage. L'intention malveillante est claire même si les motivations le sont moins. L'incident le plus grave pour l'instant constaté s'est produit en 2018 lorsqu'un vol British Airways au départ a été contraint de faire demi-tour  car le pilote ne se considérait plus en capacité de piloter l'appareil en toute sécurité. 
 ## conclusion
-> On voit que la sécurité en aviation a réussi à trouver une parade à tous les risques rencontrés et est finalement le moyen de transport le plus sûr avec un taux d'accident plusieurs dizaine de fois inférieur à celui de la voiture. La sé
+> On voit que la sécurité en aviation a réussi à trouver une parade à tous les risques rencontrés et est finalement le moyen de transport le plus sûr avec un taux d'accident plusieurs dizaine de fois inférieur à celui de la voiture. La sécurité au sein de l'avion est désormais maximale mais il reste quelques menaces extérieures : droné, lasr et peut-être dans un futur plus ou moins proche le piratage informatique des systèmes e contrôle de l'avion.
 > Ceci étant, la crise du Covid a fortement impacté le trafic aérien depuis mars 2020 où le trafic aérien a chuté de 90%. Même en septembre 2020, il était remonté à 60% de l'activité constatée en 2019. Un grand nombre d'avions ont été placés sur des parkings dans l'attente d'un redémarrage du trafic et bien sûr la production d'avion est elle aussi fortement impactée. Par exemple, Airbus prévoit 15000 suppressions de postes dont 5000 en France. 
 > 
 ### Covid
@@ -62,10 +62,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NTUxMTEsLTk1NTM3ODM0MSwtODI3OD
-ExOTc4LC0yMzQ2MzM4NzUsMTQzNjk4NTIyNSwtMjA3OTQ0MTEy
-MywtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMyMzEsNDYyMz
-A2MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOTY5NDM3Mjcw
-LC0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYwOTA3OTddfQ
-==
+eyJoaXN0b3J5IjpbLTIxMTQ5OTY5NTgsLTk1NTM3ODM0MSwtOD
+I3ODExOTc4LC0yMzQ2MzM4NzUsMTQzNjk4NTIyNSwtMjA3OTQ0
+MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMyMzEsND
+YyMzA2MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOTY5NDM3
+MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYwOTA3OT
+ddfQ==
 -->
