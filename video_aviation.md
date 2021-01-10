@@ -36,12 +36,12 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 >  L'ouverture de la porte est commandée à la fois par un digicode et par un contrôle vidéo effectué par le pilote resté dans le cockpit.
 ## suicides en avion
 > Toutes ces mesures ont tendance à protéger le poste de pilotage et l'intégrité de l'avion principalement par rapport aux passagers. Le risque restant est un geste de désespoir d'un pilote : le suicide en aviation.
-> Cela déjà un certain nombre de fois : 
+> Cela déjà un certain nombre de fois : le premier incident recensé en 1982 sur vol d'Air Japan se solda par 24 victimes, puis on compte 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzIxNjg0MCwxNDM2OTg1MjI1LC0yMD
+eyJoaXN0b3J5IjpbLTE1MDAzNTUzMywxNDM2OTg1MjI1LC0yMD
 c5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIz
 MSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Nj
 k0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5
