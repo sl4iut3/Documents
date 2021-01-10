@@ -11,7 +11,7 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ## les détournements
 
 >  Les premiers détournements d'aéronef ont eu lieu à partir du début du transport de passager dans les années 30 et avaient souvent pour cause la fuite d'un pays. 
->  Un des cas les plus emblématiques a été le détournement simultané en 1950 de trois DC3 par des pilotes tchèques anciennement dans la Royal Air Force pour fuir la Tchécoslovaquie communiste et passer à l'ouest.
+>  Un des cas les plus emblématiques a été le détournement simultané en 1950 de trois DC3 par des pilotes tchèques anciennement dans la Royal Air Force pour fuir la Tchécoslovaquie communiste et passer à l'ouest. Les trois appareils atterrissent sans encombre sur la base militaire d'Erding en Allemagne de l'Ouest.
 
 >  Un cas beaucoup plus dramatique a été le détournement d'un Boeing 767 éthiopien en 1996 pour tenter une émigration en Australie. L'appareil à cours de carburant a été entièrement détruit lors de son amerrissage près de Moroni, la capitale des Comores, et a provoqué la mort de 125 personnes.
 
@@ -30,8 +30,8 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkzMTY0NTIsLTk5MzM0OTM4OCwzMD
-A3OTE2MTEsMzI2NzYzMjMxLDQ2MjMwNjI1NCwtNTc3MDA2Njk2
-LC0yMDY4MzQ2MTcxLDk2OTQzNzI3MCwtMTI2MjM2OTIxMiwtMT
-k1NzgwODQ1MCwtMzk2MDkwNzk3XX0=
+eyJoaXN0b3J5IjpbNjY1Nzg3MjUsLTk5MzM0OTM4OCwzMDA3OT
+E2MTEsMzI2NzYzMjMxLDQ2MjMwNjI1NCwtNTc3MDA2Njk2LC0y
+MDY4MzQ2MTcxLDk2OTQzNzI3MCwtMTI2MjM2OTIxMiwtMTk1Nz
+gwODQ1MCwtMzk2MDkwNzk3XX0=
 -->
