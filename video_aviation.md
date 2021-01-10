@@ -28,7 +28,7 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 > Les attentats les plus meurtriers et aussi les plus récents sont évidemment ceux du 11 septembre 2001 où quatre avions sont détournés en quasi-simultané. Les deux premiers avions s'écrasent dans les deux tours du World Trade Center.
 > le 1ier  avion d'American airlines a decollé de Boston et les terroristes ont pris rapidemant le contrôle de l'appareil après avoir  tué les pilotes. Ils ont piloté l'avion jusque NY car ils avaient suivi des cours de pilotage aux Etats Unis. Ce premier avion percute une des deux tours à 8h56.
-> Le deuxième avion lui aussi d'american airlines a decolle de washington et suivant le mem  avaient décollé de Boston et de Washington 
+> Le deuxième avion lui aussi d'american airlines a decolle de washington et suivant le meme mode operatoire a percuté la deuxième tour à 9h14  avaient décollé de Boston et de Washington 
 >  Le troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une action désespérée des passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison Blanche. Ces quatre attentats causent la mort de près de 3000 personnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
 
 ### amélioration de la sécurité
@@ -63,10 +63,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODM3NjI5OSwtMTg3OTc5ODc4NSwtMz
-gyNjY4ODg0LC05NTUzNzgzNDEsLTgyNzgxMTk3OCwtMjM0NjMz
-ODc1LDE0MzY5ODUyMjUsLTIwNzk0NDExMjMsLTk5MzM0OTM4OC
-wzMDA3OTE2MTEsMzI2NzYzMjMxLDQ2MjMwNjI1NCwtNTc3MDA2
-Njk2LC0yMDY4MzQ2MTcxLDk2OTQzNzI3MCwtMTI2MjM2OTIxMi
-wtMTk1NzgwODQ1MCwtMzk2MDkwNzk3XX0=
+eyJoaXN0b3J5IjpbLTEzNDQ3ODc0MTIsLTE4Nzk3OTg3ODUsLT
+M4MjY2ODg4NCwtOTU1Mzc4MzQxLC04Mjc4MTE5NzgsLTIzNDYz
+Mzg3NSwxNDM2OTg1MjI1LC0yMDc5NDQxMTIzLC05OTMzNDkzOD
+gsMzAwNzkxNjExLDMyNjc2MzIzMSw0NjIzMDYyNTQsLTU3NzAw
+NjY5NiwtMjA2ODM0NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMT
+IsLTE5NTc4MDg0NTAsLTM5NjA5MDc5N119
 -->
