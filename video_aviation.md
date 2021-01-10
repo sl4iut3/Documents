@@ -40,12 +40,12 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Ce crash est le dernier en date et a eu retentissement important car il s'est déroulé dans les alpes françaises.
 ## risques externes
 > En periode de conflit comme par exemple pendant la guerre froide, une simple erreur de navigation peut conduire à une destruction d'un avion de ligne. 
-> C'est ce qui est arrivé au KL007, vol reliant Anchorage à Séoul en 1988. L'appareil a été abattu par la chasse   
+> C'est ce qui est arrivé au KL007, vol reliant Anchorage à Séoul en 1983. L'appareil a été abattu par la chasse soviétique au dessus de la presqu'ile de Sakhaline car une  erreur de programmation de la centrale inertielle pilotant l'avion 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjAxODUzNiwxNDM2OTg1MjI1LC0yMD
+eyJoaXN0b3J5IjpbMTgyOTk1MDYyOCwxNDM2OTg1MjI1LC0yMD
 c5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIz
 MSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Nj
 k0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5
