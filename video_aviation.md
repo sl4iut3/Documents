@@ -47,15 +47,15 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Dans les nouveaux risques, on peut compter les drones même si pour l'instant aucun accident n'a été recensé. 
 > Les premiers incidents classés par le BEA comme incident grave remontent à 2016 lorsque deux avions d'Air France sont obligés d'effectuer des manœuvre d'évitement lors de l'approche de Roissy. Heureusement aucune collision ne s'est produite. On peut toutefois signaler le cas d'un drone qui a décollé de Belgique et dont le pilote a perdu le contrôle. Il a parcouru 200km avant de se crasher dans un champs en France. Tout le long de son vol, il a été surveillé par des avions de chasse. On note néanmoins n'est du à de la malveillance de la part du pilote du drone.
 > Des études de collision entre drone et aéronef ont été effectues récemment et ont montré que les dégats peuvent être conséquents : des essais de collision entre un petit quadricoptère et une aile d'avion provoquent des endommagement importants sur l'aile et le carburant contenu dans cette dernière.
->  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage.
+>  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage. L'incident le plus grave pour l'instant constaté s'est produit en 2018 lorsqu'un vol British Airways au départ a été contraint de faire demi-tour  suite
 > 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMzg2ODksLTIzNDYzMzg3NSwxNDM2OT
-g1MjI1LC0yMDc5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjEx
-LDMyNjc2MzIzMSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2OD
-M0NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0
-NTAsLTM5NjA5MDc5N119
+eyJoaXN0b3J5IjpbLTE4MjIwMjAyNDcsLTIzNDYzMzg3NSwxND
+M2OTg1MjI1LC0yMDc5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkx
+NjExLDMyNjc2MzIzMSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMj
+A2ODM0NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4
+MDg0NTAsLTM5NjA5MDc5N119
 -->
