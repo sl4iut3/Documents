@@ -46,7 +46,7 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ## Nouveaux risques
 ### Drones
 > Dans les nouveaux risques, on peut compter les drones même si pour l'instant aucun accident n'a été recensé. 
-> Les premiers incidents classés par le BEA comme incident grave remontent à 2016 lorsque deux avions d'Air France sont obligés d'effectuer des manœuvre d'évitement lors de l'approche de Roissy. Heureusement aucune collision ne s'est produite. On peut toutefois signaler le cas d'un drone qui a décollé de Belgique et dont le pilote a perdu le contrôle. Il a parcouru 200km avant de se crasher dans un champs en France. Tout le long de son vol, il a été surveillé par des avions de chasse. On note néanmoins n'est du à de la malveillance de la part du pilote du drone.
+> Les premiers incidents classés par le BEA comme incident grave remontent à 2016 lorsque deux avions d'Air France sont obligés d'effectuer des manœuvre d'évitement lors de l'approche de Roissy. Heureusement aucune collision ne s'est produite. On peut toutefois signaler le cas d'un drone qui a décollé de Belgique et dont le pilote a perdu le contrôle. Il a parcouru 200km avant de se crasher dans un champs en France. Tout le long de son vol, il a été surveillé par des avions de chasse. On note néanmoins que tous ces incidents ne sont pas du à de la malveillance de la part des pilote de drone.
 > Des études de collision entre drone et aéronef ont été effectues récemment et ont montré que les dégats peuvent être conséquents : des essais de collision entre un petit quadricoptère et une aile d'avion provoquent des endommagement importants sur l'aile et le carburant contenu dans cette dernière.
 ### Lasers
 >  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage. L'intention malveillante est claire même si les motivations le sont moins. L'incident le plus grave pour l'instant constaté s'est produit en 2018 lorsqu'un vol British Airways au départ a été contraint de faire demi-tour  car le pilote ne se considérait plus en capacité de piloter l'appareil en toute sécurité. 
@@ -60,10 +60,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjY2ODg4NCwtOTU1Mzc4MzQxLC04Mj
-c4MTE5NzgsLTIzNDYzMzg3NSwxNDM2OTg1MjI1LC0yMDc5NDQx
-MTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIzMSw0Nj
-IzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Njk0Mzcy
-NzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5MDc5N1
-19
+eyJoaXN0b3J5IjpbLTE4Nzk3OTg3ODUsLTM4MjY2ODg4NCwtOT
+U1Mzc4MzQxLC04Mjc4MTE5NzgsLTIzNDYzMzg3NSwxNDM2OTg1
+MjI1LC0yMDc5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLD
+MyNjc2MzIzMSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0
+NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NT
+AsLTM5NjA5MDc5N119
 -->
