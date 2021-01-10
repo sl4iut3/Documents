@@ -35,12 +35,13 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 >  Le derniet point important a été de sécuriser l'accès au cockpit. Il faut savoir que jusqu'aux attentats de 2001 la porte du cockpit n'était pas verrouillable et même parfois laissée ouverte pendant le vol. Depuis, cette porte est renforcée et est verrouillée de l'intérieur. 
 >  L'ouverture de la porte est commandée à la fois par un digicode et par un contrôle vidéo effectué par le pilote resté dans le cockpit.
 ## suicides en avion
-> Toutes ces mesures ont tendance à protéger le poste de pilotage et
+> Toutes ces mesures ont tendance à protéger le poste de pilotage et l'intégrité de l'avion principalement par rapport aux passagers. Le risque restant est un geste de désespoir d'un pilote : le suicide en aviation.
+> Cela déjà un certain nombre de fois : le 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDMzODY5NSwxNDM2OTg1MjI1LC0yMD
+eyJoaXN0b3J5IjpbLTU2NjA1ODMxMSwxNDM2OTg1MjI1LC0yMD
 c5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIz
 MSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Nj
 k0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5
