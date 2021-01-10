@@ -27,10 +27,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Le dernier attentat à la bombe à eu lieu en 2016 lorsqu'un Airbus A321 de la compagnie russe Metrojet est détruit en plein vol par un engin explosif placé dans une canette de soda. L'appareil s'écrase dans la péninsule du Sinaï. L'attentat a été revendiqué par l'État Islamique.
 
 > Les attentats les plus meurtriers et aussi les plus récents sont évidemment ceux du 11 septembre 2001 où quatre avions sont détournés en quasi-simultané. Les deux premiers avions s'écrasent dans les deux tours du World Trade Center.
-> le 1ier  avion d'American airlines a decollé de Boston et les terroristes ont pris rapidemant le contrôle de l'appareil après avoir  tué les pilotes. Ils ont piloté l'avion jusque NY car ils avaient suivi des cours de pilotage aux Etats Unis. Ce premier avion percute une des deux tours à 8h56.
-> Le deuxième avion lui aussi d'american airlines a decolle de washington et suivant le meme mode operatoire a percuté la deuxième tour à 9h14. 
+> le 1ier  avion d'American airlines a décollé de Boston et les terroristes ont pris rapidement le contrôle de l'appareil après avoir  tué les pilotes. Ils ont piloté l'avion jusque NY car ils avaient suivi des cours de pilotage aux Etats Unis. Ce premier avion percute une des deux tours à 8h56.
+> Le deuxième avion lui aussi d'american airlines a décollé de washington et suivant le même mode opératoire a percuté la deuxième tour à 9h14. 
 > Les avions au moment de la collision sont plein de kerozènes ce qui conduit à un feu intense au sein des deux tours. Ceci conduit finalement à la destruction totale et à l'effondrement des twins towers.
-> Par peur d'autres détournements le trafic aérien est entirement suspendu au dessus des etats unis et tous les avions sont obligés d'aterrir immédiatement.
+> Par peur d'autres détournements le trafic aérien est entirement suspendu au dessus des etats unis et tous les avions sont obligés d’atterrir immédiatement.
 >   avaient décollé de Boston et de Washington 
 >  Le troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une action désespérée des passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison Blanche. Ces quatre attentats causent la mort de près de 3000 personnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
 
@@ -66,10 +66,11 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTg4MDA5NywtMTg3OTc5ODc4NSwtMz
-gyNjY4ODg0LC05NTUzNzgzNDEsLTgyNzgxMTk3OCwtMjM0NjMz
-ODc1LDE0MzY5ODUyMjUsLTIwNzk0NDExMjMsLTk5MzM0OTM4OC
-wzMDA3OTE2MTEsMzI2NzYzMjMxLDQ2MjMwNjI1NCwtNTc3MDA2
-Njk2LC0yMDY4MzQ2MTcxLDk2OTQzNzI3MCwtMTI2MjM2OTIxMi
-wtMTk1NzgwODQ1MCwtMzk2MDkwNzk3XX0=
+eyJoaXN0b3J5IjpbMTc5MTE1MDEwOCwxNzU1ODgwMDk3LC0xOD
+c5Nzk4Nzg1LC0zODI2Njg4ODQsLTk1NTM3ODM0MSwtODI3ODEx
+OTc4LC0yMzQ2MzM4NzUsMTQzNjk4NTIyNSwtMjA3OTQ0MTEyMy
+wtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMyMzEsNDYyMzA2
+MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOTY5NDM3MjcwLC
+0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYwOTA3OTddfQ==
+
 -->
