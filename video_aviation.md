@@ -17,9 +17,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 ## les attentats
 
-> Un grand nombre de détournements ont eu lieu par la suite à des fins politiques, en particulier à partir des années 1970. La motivation était souvent d'attirer l'attention du monde entier sur un conflit par le biais d'action terroriste. On ne peut faire la liste de toutes ses actions mais le cas le plus frappant est le détournement de trois avions par le front de libération populaire de la Palestine (FPLP) en 1970 et leur destruction sur une ancienne piste militaire de la Royal Air Force, nommée Dawson's Field, près de Zarka en Jordanie. Notons que les passagers avaient été évacués et que le conflit israélo-palestinien a été mis au premier plan lors de cette action.
+> Un grand nombre de détournements ont eu lieu par la suite à des fins politiques, en particulier à partir des années 1970. La motivation était souvent d'attirer l'attention du monde entier sur un conflit par le biais d'action terroriste. On ne peut faire la liste de toutes ses actions mais le cas le plus frappant est le détournement en 1970 de trois avions par le front de libération populaire de la Palestine (PFLP) et leur destruction sur une ancienne piste militaire de la Royal Air Force, nommée Dawson's Field, près de Zarka en Jordanie. Notons que les passagers avaient été évacués et que le conflit israélo-palestinien a été mis au premier plan lors de cette action.
 
-> Parlons 
+> Parlons ensuite des attentats à la bombe.
+
 > Des exemples plus meurtriers ont suivis principalement par embarquement dans les bagages des passagers de bombes. La destruction de l'avion est alors réalisé en plein vol avec pour conséquence un grand nombre de victimes dans l'avion mais aussi au sol. On peut citer par exemple l'attentat du 747 de la Panam en 1988 où une bombe avait été placée dans une valise pour un passager qui n'a finalement pas embarqué. L'attentat a fait 270 morts, dont 11 victimes dans la petite ville de Lockerby en Ecosse, sur laquelle l'avion s'est écrasé. L'enquête a montré par la suite l'implication de la Lybie de Khadafi dans cet attentat.
 
 > Les attentats les plus meurtriers et aussi les plus récents sont évidemment ceux du 11 septembre 2001 où quatre avions sont détournés en quasi-simultané. Les deux premiers avions s'écrasent dans les deux tours du World Trade Center. Le troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une action désespérée des passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison Blanche. Ces quatre attentats causent la mort de près de 3000 personnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
@@ -30,7 +31,7 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzkzMjczNywtMTI1ODYxNDk3OSwtMj
-A2ODM0NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4
-MDg0NTAsLTM5NjA5MDc5N119
+eyJoaXN0b3J5IjpbLTU3NzAwNjY5NiwtMzAzOTMyNzM3LC0yMD
+Y4MzQ2MTcxLDk2OTQzNzI3MCwtMTI2MjM2OTIxMiwtMTk1Nzgw
+ODQ1MCwtMzk2MDkwNzk3XX0=
 -->
