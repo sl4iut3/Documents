@@ -35,8 +35,9 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Un autre point important a été de sécuriser l'accès au cockpit. Il faut savoir que jusqu'aux attentats de 2001 la porte du cockpit n'était pas verrouillable et même parfois laissée ouverte pendant le vol. Depuis, cette porte est renforcée et est verrouillée de l'intérieur. L'ouverture est commandée à la fois par un digicode et par un contrôle vidéo.
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM1MTU3ODMsMTQzNjk4NTIyNSwtMj
+eyJoaXN0b3J5IjpbLTEyMzk4NjM5NjEsMTQzNjk4NTIyNSwtMj
 A3OTQ0MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMy
 MzEsNDYyMzA2MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOT
 Y5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYw
