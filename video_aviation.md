@@ -51,14 +51,14 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ### Lasers
 >  Un autre risque est l'éblouissement du pilote par un laser en particulier pendant les phases délicates que sont le décollage et surtout atterrissage. L'intention malveillante est claire même si les motivations le sont moins. L'incident le plus grave pour l'instant constaté s'est produit en 2018 lorsqu'un vol British Airways au départ a été contraint de faire demi-tour  car le pilote ne se considérait plus en capacité de piloter l'appareil en toute sécurité. 
 ### Covid
-> La crise sanitaire du Covid en 2020 a provoqué un ralentissement très important( voire quasi-total) du trafic aérien : par exemple, l'aéroport a été totalement fermé pendant plusieurs semaines. 
+> La crise sanitaire du Covid en 2020 a provoqué un ralentissement très important( voire quasi-total) du trafic aérien : par exemple, l'aéroport a été totalement fermé pendant plusieurs semaines. D'après IATA, le trafic aérien a chuté de 90% en mars 2020 et même au moins de Septembre est resté aux environs de 60% par rapport à l'année précédente
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzgxMTk3OCwtMjM0NjMzODc1LDE0Mz
-Y5ODUyMjUsLTIwNzk0NDExMjMsLTk5MzM0OTM4OCwzMDA3OTE2
-MTEsMzI2NzYzMjMxLDQ2MjMwNjI1NCwtNTc3MDA2Njk2LC0yMD
-Y4MzQ2MTcxLDk2OTQzNzI3MCwtMTI2MjM2OTIxMiwtMTk1Nzgw
-ODQ1MCwtMzk2MDkwNzk3XX0=
+eyJoaXN0b3J5IjpbMTY1OTA5MDg1OCwtODI3ODExOTc4LC0yMz
+Q2MzM4NzUsMTQzNjk4NTIyNSwtMjA3OTQ0MTEyMywtOTkzMzQ5
+Mzg4LDMwMDc5MTYxMSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01Nz
+cwMDY2OTYsLTIwNjgzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5
+MjEyLC0xOTU3ODA4NDUwLC0zOTYwOTA3OTddfQ==
 -->
