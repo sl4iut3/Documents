@@ -46,13 +46,13 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ## Nouveaux risques
 > Dans les nouveaux risques, on peut compter les drones même si pour l'instant aucun accident n'a été recensé. 
 > Les premiers incidents classés par le BEA comme incident grave remontent à 2016 lorsque deux avions d'Air France sont obligés d'effectuer des maneuvre d'évitement lors de l'approche de Roissy. Heureusement aucune collision ne s'est produite. On peut toutefois signaler le cas d'un drone qui a décollé de Belgique et dont le pilote a perdu le contrôle. Il a parcouru 200km avant de se crasher dans un champs en France. Tout le long de son vol, il a été surveillé par des avions de chasse.
-> Des études de collision entre drone et aéronef ont été effectues récemment et ont montré que les dégats peuvent être conséquents. En effet, au bout de Le  
+> Des études de collision entre drone et aéronef ont été effectues récemment et ont montré que les dégats peuvent être conséquents : des essais de collision entre un petit quadricoptère et une aile d'avion provoquent des endommagement importants sur l'aile et le carburant contenu dans cette de En effet, au bout de Le  
 > 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwOTk0MjY4LC0yMzQ2MzM4NzUsMTQzNj
+eyJoaXN0b3J5IjpbNjc1ODUyMDg0LC0yMzQ2MzM4NzUsMTQzNj
 k4NTIyNSwtMjA3OTQ0MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYx
 MSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01NzcwMDY2OTYsLTIwNj
 gzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4
