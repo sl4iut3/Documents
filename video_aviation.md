@@ -29,7 +29,8 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Les attentats les plus meurtriers et aussi les plus récents sont évidemment ceux du 11 septembre 2001 où quatre avions sont détournés en quasi-simultané. Les deux premiers avions s'écrasent dans les deux tours du World Trade Center.
 > le 1ier  avion d'American airlines a decollé de Boston et les terroristes ont pris rapidemant le contrôle de l'appareil après avoir  tué les pilotes. Ils ont piloté l'avion jusque NY car ils avaient suivi des cours de pilotage aux Etats Unis. Ce premier avion percute une des deux tours à 8h56.
 > Le deuxième avion lui aussi d'american airlines a decolle de washington et suivant le meme mode operatoire a percuté la deuxième tour à 9h14. 
-> Les avions au moment de la collision sont plein de kerozènes ce qui conduit à un feu intense au sein des deux tours. Ceci conduit finalement à la destruction totale et à l'effondrement des twins   avaient décollé de Boston et de Washington 
+> Les avions au moment de la collision sont plein de kerozènes ce qui conduit à un feu intense au sein des deux tours. Ceci conduit finalement à la destruction totale et à l'effondrement des twins towers.
+> Par peur d'autres détournements le trafic aérien est entirement suspendu au dessus des etats unis et tous les avions sont obligés d'aterrir immédiatement  avaient décollé de Boston et de Washington 
 >  Le troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une action désespérée des passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison Blanche. Ces quatre attentats causent la mort de près de 3000 personnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
 
 ### amélioration de la sécurité
@@ -64,10 +65,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY3NzA3MjMsLTE4Nzk3OTg3ODUsLT
-M4MjY2ODg4NCwtOTU1Mzc4MzQxLC04Mjc4MTE5NzgsLTIzNDYz
-Mzg3NSwxNDM2OTg1MjI1LC0yMDc5NDQxMTIzLC05OTMzNDkzOD
-gsMzAwNzkxNjExLDMyNjc2MzIzMSw0NjIzMDYyNTQsLTU3NzAw
-NjY5NiwtMjA2ODM0NjE3MSw5Njk0MzcyNzAsLTEyNjIzNjkyMT
-IsLTE5NTc4MDg0NTAsLTM5NjA5MDc5N119
+eyJoaXN0b3J5IjpbNjA3Mzk2MTMxLC0xODc5Nzk4Nzg1LC0zOD
+I2Njg4ODQsLTk1NTM3ODM0MSwtODI3ODExOTc4LC0yMzQ2MzM4
+NzUsMTQzNjk4NTIyNSwtMjA3OTQ0MTEyMywtOTkzMzQ5Mzg4LD
+MwMDc5MTYxMSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01NzcwMDY2
+OTYsLTIwNjgzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5MjEyLC
+0xOTU3ODA4NDUwLC0zOTYwOTA3OTddfQ==
 -->
