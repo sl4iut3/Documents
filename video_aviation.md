@@ -44,15 +44,15 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Même sans erreur de navigation, le survol d'une zône en guerre est problématique. Par exmple, en 2014, le vol MH17 a été abattu et totalement détruit  par un missile tiré par des séparatistes pro-russes au dessus de l'Ukraine. Par sécurité, un grand nombre de route aérienne ont été modifiées pour éviter les zônes de guerre.
 > Plus récemment, un vol ukrainien au départ de Téhéran a été détruit par erreur par la défense aérienne iranienne en Janvier 2020.
 ## Nouveaux risques
-> Dans les nouveaux risques, on peut compter les drones même si po 
+> Dans les nouveaux risques, on peut compter les drones même si pour l'instant aucun accident n'a été recensé. Le  
 > 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNzMwODMzLDE0MzY5ODUyMjUsLTIwNz
-k0NDExMjMsLTk5MzM0OTM4OCwzMDA3OTE2MTEsMzI2NzYzMjMx
-LDQ2MjMwNjI1NCwtNTc3MDA2Njk2LC0yMDY4MzQ2MTcxLDk2OT
-QzNzI3MCwtMTI2MjM2OTIxMiwtMTk1NzgwODQ1MCwtMzk2MDkw
-Nzk3XX0=
+eyJoaXN0b3J5IjpbLTIzNDYzMzg3NSwxNDM2OTg1MjI1LC0yMD
+c5NDQxMTIzLC05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIz
+MSw0NjIzMDYyNTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Nj
+k0MzcyNzAsLTEyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5
+MDc5N119
 -->
