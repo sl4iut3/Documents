@@ -53,12 +53,12 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 ### Covid
 > La crise sanitaire du Covid en 2020 a provoqué un ralentissement très important( voire quasi-total) du trafic aérien : par exemple, l'aéroport a été totalement fermé pendant plusieurs semaines. D'après IATA, le trafic aérien a chuté de 90% en mars 2020 et même au moins de Septembre est resté aux environs de 60% par rapport à l'année précédente : d'environ 110000 vols par jour en 2019, on descend en mars 2020 à 30000 et on remonte en septembre vers 70000.  Un grand nombre d'avions ont été placés sur des parkings dans l'attente d'un redémarrage du trafic et bien sûr la production d'avion est elle aussi fortement impactée. Par exemple, Airbus prévoit 15000 suppressions de postes dont 5000 en France.
 > ## conclusion
-> On voit que la sécurité en avaition a réussi à trouver une parade à tous les risque
+> On voit que la sécurité en aviation a réussi à trouver une parade à tous les risques rencontrés et est fait le moyen de transport le plus sûr avec un taux 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDQ4NTkzMCwtODI3ODExOTc4LC0yMz
+eyJoaXN0b3J5IjpbLTk1NTM3ODM0MSwtODI3ODExOTc4LC0yMz
 Q2MzM4NzUsMTQzNjk4NTIyNSwtMjA3OTQ0MTEyMywtOTkzMzQ5
 Mzg4LDMwMDc5MTYxMSwzMjY3NjMyMzEsNDYyMzA2MjU0LC01Nz
 cwMDY2OTYsLTIwNjgzNDYxNzEsOTY5NDM3MjcwLC0xMjYyMzY5
