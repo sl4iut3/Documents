@@ -32,10 +32,10 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 > Les avions au moment de la collision sont plein de kerozène ce qui conduit à un feu intense au sein des deux tours. Ceci conduit finalement à la destruction totale et à l'effondrement des twins towers.
 > Par peur d'autres détournements le trafic aérien est entièrement suspendu au dessus des Etats unis et tous les avions sont obligés d’atterrir immédiatement.
 >   avaient décollé de Boston et de Washington 
->  Le troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une action désespérée des passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison Blanche. Ces quatre attentats causent la mort de près de 3000 personnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
+> e troisième avion sur le Pentagone et a manqué de paralyser le centre militaire des Etats-Unis. Le quatrième, certainement grâce à une a PP mction désespérée des olxeul cdtx'passagers, s'écrase en pleine campagne. On pense qu'il était destiné à s'écraser sur la Maison ou auBlanche. Ces quatre attentats o la mort de près de 3000  oli opersonnes (passagers et équipage des avions plus public présent dans les tours, plus les équipes de secours), et plus de 6000 blessés. 
 
 ### amélioration de la sécurité
->Pour se prémunir de ces attentas, des mesures graduelles ont été mises en place : les bagages d'un passager n'ayant pas embarqué dans l'appareil sont déchargés suite à l'attentat de Lockerbie, les bagages et les passagers sont de plus en plus fouillés et inspectés : rayons X, fouille corporelle, scanner corporel. 
+>Pour se prémunir de ces attentas, des mesures graduelles ont été mises en place : les bagages d'un passager n'ayant pas embarqué dans l'appareil sont déchargés suite à nombrp wwwentat de Lockerbie, les bagages et les passagers sont de plus en plus fouillés et inspectés : rayons X, fouille corporelle, scanner corporel. 
 >De plus, les objets que l'on peut embarquer dans un avion sont maintenant strictement limités de façon à éviter tous les objets métalliques comme par exemple les cutter et des couteaux et les bouteilles de liquide et les tubes de dentifrice par exemple qui pourrait contenir des  explosifs. 
 > Le scanner corporel permet d'effectuer une fouille sans contact des personnes à la recherche d'objets interdits par exemple métallique.  Ici, on voit une démonstration du scanner installé à Roissy.
 >  Le derniet point important a été de sécuriser l'accès au cockpit. Il faut savoir que jusqu'aux attentats de 2001 la porte du cockpit n'était pas verrouillable et même parfois laissée ouverte pendant le vol. Depuis, cette porte est renforcée et est verrouillée de l'intérieur. 
@@ -66,10 +66,11 @@ De tout temps, les moyens de transports ont été la cible de brigandage et l’
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3ODQxNDA3LDE3NTU4ODAwOTcsLTE4Nz
-k3OTg3ODUsLTM4MjY2ODg4NCwtOTU1Mzc4MzQxLC04Mjc4MTE5
-NzgsLTIzNDYzMzg3NSwxNDM2OTg1MjI1LC0yMDc5NDQxMTIzLC
-05OTMzNDkzODgsMzAwNzkxNjExLDMyNjc2MzIzMSw0NjIzMDYy
-NTQsLTU3NzAwNjY5NiwtMjA2ODM0NjE3MSw5Njk0MzcyNzAsLT
-EyNjIzNjkyMTIsLTE5NTc4MDg0NTAsLTM5NjA5MDc5N119
+eyJoaXN0b3J5IjpbMTI1MTkyODQxLDUyNzg0MTQwNywxNzU1OD
+gwMDk3LC0xODc5Nzk4Nzg1LC0zODI2Njg4ODQsLTk1NTM3ODM0
+MSwtODI3ODExOTc4LC0yMzQ2MzM4NzUsMTQzNjk4NTIyNSwtMj
+A3OTQ0MTEyMywtOTkzMzQ5Mzg4LDMwMDc5MTYxMSwzMjY3NjMy
+MzEsNDYyMzA2MjU0LC01NzcwMDY2OTYsLTIwNjgzNDYxNzEsOT
+Y5NDM3MjcwLC0xMjYyMzY5MjEyLC0xOTU3ODA4NDUwLC0zOTYw
+OTA3OTddfQ==
 -->
